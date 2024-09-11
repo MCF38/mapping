@@ -65,6 +65,7 @@
         "email": "julien.rebuffet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -80,6 +81,7 @@
         "email": "jaipour.organisation@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -95,6 +97,7 @@
         "email": "alain.falcoz@sportkidsmeribel.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -110,6 +113,7 @@
         "email": "bricetrip@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -125,6 +129,7 @@
         "email": "mazonpat@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -140,6 +145,7 @@
         "email": "franckbmx@gmail.com",
         "site_internet": "https:\/\/velocrampons.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -155,6 +161,7 @@
         "email": "frederic.clavel.mail@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -170,6 +177,7 @@
         "email": "ecir@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -185,6 +193,7 @@
         "email": "farid@provtt.com",
         "site_internet": "https:\/\/www.ventoux-bikestrip.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -200,6 +209,7 @@
         "email": "bonin.yvan@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -215,6 +225,7 @@
         "email": "eric.achard6@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -230,6 +241,7 @@
         "email": "eric.gros.eg@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -245,6 +257,7 @@
         "email": "thierry@itinerance-vtt.com",
         "site_internet": "https:\/\/www.itinerance-vtt.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -260,6 +273,7 @@
         "email": "authentic.bike@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -275,6 +289,7 @@
         "email": "loisirslocvtt@hotmail.fr",
         "site_internet": "https:\/\/www.loisirs-loc-vtt.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -290,6 +305,7 @@
         "email": "gwenael.ruau@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -305,6 +321,7 @@
         "email": "seb.isenmann@wanadoo.fr",
         "site_internet": "https:\/\/www.siaventure.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -312,7 +329,7 @@
         "code": 53,
         "name": "Christophe ROULX",
         "slug": "id=53&contact=Christophe ROULX",
-        "position": "44.832829,6.509696",
+        "position": "44.866104,6.485877",
         "adressel1": "le Saint Genest",
         "cp": "05290",
         "city": "VALLOUISE",
@@ -320,6 +337,7 @@
         "email": "tikibikevtt@gmail.com",
         "site_internet": "https:\/\/sites.google.com\/site\/tikibikevtthautesalpes",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -335,6 +353,7 @@
         "email": "fb.cyclisme@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -350,6 +369,7 @@
         "email": "marianne.fillion91@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/rideand - https:\/\/instagram.com\/rideand_experience",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -365,6 +385,7 @@
         "email": "samduplan888@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -380,6 +401,7 @@
         "email": "dgaimard@wanadoo.fr",
         "site_internet": "https:\/\/gareoultbikepark.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -395,6 +417,7 @@
         "email": "jean-luc.chrisostome@wanadoo.fr",
         "site_internet": "https:\/\/www.loisirs-paysbasque.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -410,6 +433,7 @@
         "email": "thierry@sableo.com",
         "site_internet": "https:\/\/www.sableo.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -425,6 +449,7 @@
         "email": "alexbalaud@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -440,6 +465,7 @@
         "email": "gilles.ducol@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -455,6 +481,7 @@
         "email": "llaume.a.velo@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -470,6 +497,7 @@
         "email": "contact@planet-aventures.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -485,6 +513,7 @@
         "email": "flochon.jeanmi7@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -500,6 +529,7 @@
         "email": "cachablate@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -515,6 +545,7 @@
         "email": "contact@anjousportnature.com",
         "site_internet": "https:\/\/anjousportnature.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -530,6 +561,7 @@
         "email": "samuelthill@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -545,6 +577,7 @@
         "email": "jeanlouis_sports@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -560,6 +593,7 @@
         "email": "valexmartoia@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -575,6 +609,7 @@
         "email": "manu.danjou@gmail.com",
         "site_internet": "https:\/\/www.e-pedal.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -590,6 +625,7 @@
         "email": "thierrystaquet@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -605,6 +641,7 @@
         "email": "bafoufranck@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -620,6 +657,7 @@
         "email": "olivier.catroux@orange.fr",
         "site_internet": "https:\/\/www.ecolevtt.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -635,6 +673,7 @@
         "email": "luc.caperan@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -650,6 +689,7 @@
         "email": "francois-simond@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -665,6 +705,7 @@
         "email": "nicolas.mater@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -680,6 +721,7 @@
         "email": "philippemennecier@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -695,6 +737,7 @@
         "email": "pascalou4@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -710,6 +753,7 @@
         "email": "jiles@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -725,6 +769,7 @@
         "email": "contact@happybikecamp.com",
         "site_internet": "http:\/\/www.happybikecamp.com\/contact\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -740,6 +785,7 @@
         "email": "lionelvarrot@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -755,6 +801,7 @@
         "email": "daniel.vailhe@sfr.fr",
         "site_internet": "https:\/\/www.espritnatureorg.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -770,6 +817,7 @@
         "email": "couleurvent@orange.fr",
         "site_internet": "https:\/\/couleur-vent.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -785,6 +833,7 @@
         "email": "bedos.thierry@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -800,6 +849,7 @@
         "email": "gilpesando@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -815,6 +865,7 @@
         "email": "flavien.carrieu@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -830,6 +881,7 @@
         "email": "jochen.boggero@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -845,6 +897,7 @@
         "email": "fred.jullian1@gmail.com",
         "site_internet": "https:\/\/fredjullian39.wixsite.com\/fredjullianvtt\/c-e",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -860,6 +913,7 @@
         "email": "cheruynicolas@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -875,6 +929,7 @@
         "email": "torsedebouvreuil@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -890,6 +945,7 @@
         "email": "fredleyris@yahoo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -905,6 +961,7 @@
         "email": "baderlacour@aol.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -920,6 +977,7 @@
         "email": "s.sport3@mairie-village-neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -935,6 +993,7 @@
         "email": "fabrice.rota63@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -950,6 +1009,7 @@
         "email": "eyssette_arnaud@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -965,6 +1025,7 @@
         "email": "bruno.scopel@club-internet.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -980,6 +1041,7 @@
         "email": "a.lachoix@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -995,6 +1057,7 @@
         "email": "marcblancard@gmail.com",
         "site_internet": "https:\/\/www.accompagnateur-rando-peche.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1010,6 +1073,7 @@
         "email": "jm06fr@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1025,6 +1089,7 @@
         "email": "phil.deroussen@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1040,6 +1105,7 @@
         "email": "vincent.vaudaux@gmail.com",
         "site_internet": "https:\/\/www.generationbike.com\/contact\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1055,6 +1121,7 @@
         "email": "yoannmeunier1979@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1070,6 +1137,7 @@
         "email": "pascal.gaudin@velorizons.com",
         "site_internet": "https:\/\/www.velorizons.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1085,6 +1153,7 @@
         "email": "stefanji73@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1100,6 +1169,7 @@
         "email": "le.moulin.de.montrond@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1115,6 +1185,7 @@
         "email": "ecolevttchatel@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1130,6 +1201,7 @@
         "email": "remy.outdoor@wanadoo.fr",
         "site_internet": "https:\/\/www.corsicaoutdoor.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1145,6 +1217,7 @@
         "email": "sentiersdazur@gmail.com",
         "site_internet": "https:\/\/sentiersdazur-events.tumblr.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1160,6 +1233,7 @@
         "email": "big.mig@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1175,6 +1249,7 @@
         "email": "aspyrando@wanadoo.fr",
         "site_internet": "https:\/\/aspyrando.vallee-aspe.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1190,6 +1265,7 @@
         "email": "jb.wiroth@wts.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1205,6 +1281,7 @@
         "email": "triplebuse@orange.fr",
         "site_internet": "https:\/\/www.triplebuses.com - https:\/\/gil_triplebuses\/ - https:\/\/www.instagram.com\/gil_triplebuses\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1220,6 +1297,7 @@
         "email": "schmitt.as1@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1235,6 +1313,7 @@
         "email": "jjdomergue@gmail.com",
         "site_internet": "https:\/\/www.spiritnature.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1250,6 +1329,7 @@
         "email": "maxisa64@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1265,6 +1345,7 @@
         "email": "yababikecorsica@gmail.com",
         "site_internet": "https:\/\/fr-fr.facebook.com\/yababikecorsica\/ - https:\/\/www.instagram.com\/yababike_corsica",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1280,6 +1361,7 @@
         "email": "moukoufike@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1295,6 +1377,7 @@
         "email": "samuelpougnet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1310,6 +1393,7 @@
         "email": "ocotterrau@gmail.com",
         "site_internet": "https:\/\/www.appeldair-luchon.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1325,6 +1409,7 @@
         "email": "lilian.joffre@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1340,6 +1425,7 @@
         "email": "pflieger.vincent@wanadoo.fr",
         "site_internet": "https:\/\/www.vporganisation.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1355,6 +1441,7 @@
         "email": "martincaujolle@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1370,6 +1457,7 @@
         "email": "robinschuller@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1385,6 +1473,7 @@
         "email": "pascal-hourticq@wanadoo.fr",
         "site_internet": "https:\/\/www.facebook.com\/Pascal-hourticq-vtt-en-bar%C3%A9tous-276634772999627",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1400,6 +1489,7 @@
         "email": "phiso.verrier@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1415,6 +1505,7 @@
         "email": "pa.garrigues@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1430,6 +1521,7 @@
         "email": "almignerey@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1445,6 +1537,7 @@
         "email": "thierry.crouzet007@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1460,6 +1553,7 @@
         "email": "reymond.lionel74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1475,6 +1569,7 @@
         "email": "cottolaurent@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1490,6 +1585,7 @@
         "email": "eric.bouvier26@wanadoo.fr",
         "site_internet": "http:\/\/bouviertt.free.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1505,6 +1601,7 @@
         "email": "benoit.gardey@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1520,6 +1617,7 @@
         "email": "camping.lanchettes@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1535,6 +1633,7 @@
         "email": "jean-luc.riviere2@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1550,6 +1649,7 @@
         "email": "pierrevoirin@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1565,6 +1665,7 @@
         "email": "cdejouy@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1580,6 +1681,7 @@
         "email": "alexsicard74@gmail.com",
         "site_internet": "https:\/\/www.bike-addict-megeve.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1595,6 +1697,7 @@
         "email": "mountain.bike13@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1610,6 +1713,7 @@
         "email": "claudecolnaghi@gmail.com",
         "site_internet": "https:\/\/www.easyriders-7laux.com - https:\/\/www.facebook.com\/EasyRiders7Laux",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1625,6 +1729,7 @@
         "email": "poncet.pro@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1640,6 +1745,7 @@
         "email": "emgobike@orange.fr",
         "site_internet": "https:\/\/www.facebook.com\/EMGOBIKE - https:\/\/www.instagram.com\/emgo_bike\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1655,6 +1761,7 @@
         "email": "willy.valette@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1670,6 +1777,7 @@
         "email": "pierreetyannick.mermin@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1685,6 +1793,7 @@
         "email": "info@activites-morzine.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1700,6 +1809,7 @@
         "email": "benoitgloux@bgproprete.com",
         "site_internet": "https:\/\/bikelocation.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1715,6 +1825,7 @@
         "email": "sambala.baobab@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1730,6 +1841,7 @@
         "email": "cplmalet@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1745,6 +1857,7 @@
         "email": "antoinefontenelle@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1760,6 +1873,7 @@
         "email": "pierrat.yannick@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1775,6 +1889,7 @@
         "email": "domari34@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1790,6 +1905,7 @@
         "email": "florent.gastaldi@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1805,6 +1921,7 @@
         "email": "ericpreel@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1820,6 +1937,7 @@
         "email": "francis.dujardin38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1835,6 +1953,7 @@
         "email": "benoit.pve@gmail.com",
         "site_internet": "https:\/\/www.pyrenees-velo.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1850,6 +1969,7 @@
         "email": "velocite92@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1865,6 +1985,7 @@
         "email": "nicolasdubois100@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1880,6 +2001,7 @@
         "email": "jo@ride-ability.com",
         "site_internet": "https:\/\/www.ride-ability.com - https:\/\/www.facebook.com\/RideAbility-219401357951 - https:\/\/www.instagram.com\/rideability\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1895,6 +2017,7 @@
         "email": "dfreitag6@aol.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1910,6 +2033,7 @@
         "email": "laurent.schwoehrer@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1925,6 +2049,7 @@
         "email": "bsclacroix@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1932,7 +2057,7 @@
         "code": 391,
         "name": "Boris MELQUIOT",
         "slug": "id=391&contact=Boris MELQUIOT",
-        "position": "45.777777,6.777777",
+        "position": "45.688555,6.395633",
         "adressel1": "253 route de la biolle",
         "cp": "73200",
         "city": "PALLUD",
@@ -1940,6 +2065,7 @@
         "email": "boris.melquiot@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1955,6 +2081,7 @@
         "email": "dominique.mislin@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1970,6 +2097,7 @@
         "email": "aurignacpatrick@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -1985,6 +2113,7 @@
         "email": "fabskiandbike@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2000,6 +2129,7 @@
         "email": "contact@cap-velo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2015,6 +2145,7 @@
         "email": "charlytango@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2030,6 +2161,7 @@
         "email": "beberguidos@yahoo.fr",
         "site_internet": "https:\/\/www.bertrandverdelet.com - https:\/\/www.facebook.com\/bertrandverdeletskimtb - https:\/\/www.instagram.com\/ridewild_ski_bike_school\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2045,6 +2177,7 @@
         "email": "thierry.galindo@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2060,6 +2193,7 @@
         "email": "manucibat@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2075,6 +2209,7 @@
         "email": "serge.marmer@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2090,6 +2225,7 @@
         "email": "ancelin.vincent@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2105,6 +2241,7 @@
         "email": "cumulus888@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2120,6 +2257,7 @@
         "email": "edmond.gayral@gmail.com",
         "site_internet": "https:\/\/www.gayral-edmond.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2135,6 +2273,7 @@
         "email": "gonnon.bruno@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2150,6 +2289,7 @@
         "email": "luc@ventoux-velo.com",
         "site_internet": "http:\/\/www.ventoux-velo.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2165,6 +2305,7 @@
         "email": "eric.alexandre@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2180,6 +2321,7 @@
         "email": "antoinebouvier1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2195,6 +2337,7 @@
         "email": "nico.duperron@orientation-velo.com",
         "site_internet": "https:\/\/www.orientation-velo.com - https:\/\/www.facebook.com\/orientationvelomoniteursvtt\/?ref=hl",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2210,6 +2353,7 @@
         "email": "fredaemvtt@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2225,6 +2369,7 @@
         "email": "dam_ride@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2240,6 +2385,7 @@
         "email": "pvallini@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2255,6 +2401,7 @@
         "email": "willyrobin@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2270,6 +2417,7 @@
         "email": "brienad38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2285,6 +2433,7 @@
         "email": "jacquesguy960@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2300,6 +2449,7 @@
         "email": "quentinderbier@gmail.com",
         "site_internet": "https:\/\/quentinderbier@gmail.com - https:\/\/www.facebook.com\/Quentin-Derbier-MTB-1015771575155322\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2315,6 +2465,7 @@
         "email": "guisomarli@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2330,6 +2481,7 @@
         "email": "marmotssports@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2345,6 +2497,7 @@
         "email": "nove74@msn.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2360,6 +2513,7 @@
         "email": "tiboutin2005@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2375,6 +2529,7 @@
         "email": "cozza.patrick@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2390,6 +2545,7 @@
         "email": "pellissierjeanpaul@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2405,6 +2561,7 @@
         "email": "f.koerber@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2420,6 +2577,7 @@
         "email": "pierreboulonnais@yahoo.fr",
         "site_internet": "https:\/\/epicsingletrack.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2435,6 +2593,7 @@
         "email": "loic.allemand@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2450,6 +2609,7 @@
         "email": "aurelien@cyrpeo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2465,6 +2625,7 @@
         "email": "e.gehin@wanadoo.fr",
         "site_internet": "https:\/\/www.mieuxencorps.net",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2480,6 +2641,7 @@
         "email": "contact@blue-bear.org",
         "site_internet": "https:\/\/www.blue-bear.org",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2495,6 +2657,7 @@
         "email": "luc.verrier-1805@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2510,6 +2673,7 @@
         "email": "contact@evtt-provence.com",
         "site_internet": "https:\/\/www.evtt-provence.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2525,6 +2689,7 @@
         "email": "vincent.vauche@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2540,6 +2705,7 @@
         "email": "david.clar@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2555,6 +2721,7 @@
         "email": "guydelepau@gmail.com",
         "site_internet": "https:\/\/http:\/\/www.beaunevelotour.fr\/index.html - https:\/\/www.facebook.com\/beaunevelotour - https:\/\/www.instagram.com\/guydelepau\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2570,6 +2737,7 @@
         "email": "richard.etellin@wanadoo.fr",
         "site_internet": "https:\/\/www.montblanc-loisirs.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2585,6 +2753,7 @@
         "email": "gitelessentiel04@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2600,6 +2769,7 @@
         "email": "jda@alpes-actives.com",
         "site_internet": "http:\/\/alpesactives.free.fr\/accueil.html",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2615,6 +2785,7 @@
         "email": "boristourne@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2630,6 +2801,7 @@
         "email": "sudbikeandnature@orange.fr",
         "site_internet": "https:\/\/www.facebook.com\/Sud-Bike-Nature-222512044599925\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2645,6 +2817,7 @@
         "email": "seb.oppin@gmail.com",
         "site_internet": "http:\/\/www.mtbguide-morvan.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2652,7 +2825,7 @@
         "code": 534,
         "name": "Yoann CENNI",
         "slug": "id=534&contact=Yoann CENNI",
-        "position": "43.435646,6.867633",
+        "position": "43.432759,6.879996",
         "adressel1": "300 Boulevard des flots bleus - domaine de la Bastide",
         "cp": "83530",
         "city": "AGAY",
@@ -2660,6 +2833,7 @@
         "email": "yoanncenni@gmail.com",
         "site_internet": "https:\/\/passion-esterel.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2675,6 +2849,7 @@
         "email": "thierry.blondeau@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2690,6 +2865,7 @@
         "email": "julien.weill@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2705,6 +2881,7 @@
         "email": "olivier.thomas31@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2720,6 +2897,7 @@
         "email": "nico.montagnes@yahoo.fr",
         "site_internet": "https:\/\/www.montagnes-aventures.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2727,7 +2905,7 @@
         "code": 554,
         "name": "Isabelle HOHNPORTA",
         "slug": "id=554&contact=Isabelle HOHNPORTA",
-        "position": "43.483791,5.422366",
+        "position": "47.393496,0.550075",
         "adressel1": "2 Rue René Caire",
         "cp": "13080",
         "city": "LUYNES",
@@ -2735,6 +2913,7 @@
         "email": "isabelleporta@dbmail.com",
         "site_internet": "https:\/\/www.vttinprovence.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2750,6 +2929,7 @@
         "email": "patricklegendre@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2765,6 +2945,7 @@
         "email": "benjaussaud@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2780,6 +2961,7 @@
         "email": "tofraf31@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2795,6 +2977,7 @@
         "email": "mathieu@lamaisonduvelo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2810,6 +2993,7 @@
         "email": "manubailly@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2825,6 +3009,7 @@
         "email": "fred.sequier@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2840,6 +3025,7 @@
         "email": "moutnbike@hotmail.fr",
         "site_internet": "https:\/\/www.moutnbike.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2855,6 +3041,7 @@
         "email": "bruno_bourgoin@yahoo.fr",
         "site_internet": "https:\/\/www.stages-descente-vtt.com\/legal.php",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2870,6 +3057,7 @@
         "email": "e.asimus@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2885,6 +3073,7 @@
         "email": "fableduc44@gmail.com",
         "site_internet": "https:\/\/www.abicyclette-voyages.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2900,6 +3089,7 @@
         "email": "piet@naturavelo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2915,6 +3105,7 @@
         "email": "mysisafre@cegetel.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2930,6 +3121,7 @@
         "email": "yvesfady@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2945,6 +3137,7 @@
         "email": "c.grabko@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2960,6 +3153,7 @@
         "email": "thierrycottereau@orange.fr",
         "site_internet": "https:\/\/www.appeldair-luchon.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2975,6 +3169,7 @@
         "email": "snowno2002@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -2990,6 +3185,7 @@
         "email": "curt.ccic@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3005,6 +3201,7 @@
         "email": "thevenet.matthieu@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/thevenet.matthieu -",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3020,6 +3217,7 @@
         "email": "dnicosss@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3035,6 +3233,7 @@
         "email": "boismard.claude@hotmail.fr",
         "site_internet": "https:\/\/www.autourdespyrenees.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3050,6 +3249,7 @@
         "email": "lamousquere@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3065,6 +3265,7 @@
         "email": "jerem.godel@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3080,6 +3281,7 @@
         "email": "chapuis.dam@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3095,6 +3297,7 @@
         "email": "fabienaoustin@wanadoo.fr",
         "site_internet": "https:\/\/www.bcoq-academy.com\/la-b-coq-academy",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3110,6 +3313,7 @@
         "email": "s2sono@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3125,6 +3329,7 @@
         "email": "laurentskivtt@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3140,6 +3345,7 @@
         "email": "florentinmatteudi@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3155,6 +3361,7 @@
         "email": "fred.maugery@wanadoo.fr",
         "site_internet": "http:\/\/www.feeling-pyrenees.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3170,6 +3377,7 @@
         "email": "clejolien@aol.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3185,6 +3393,7 @@
         "email": "laurent.solliet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3200,6 +3409,7 @@
         "email": "superbernex@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3215,6 +3425,7 @@
         "email": "velovitamine@gmail.com",
         "site_internet": "https:\/\/velovitamine.fr - https:\/\/fr-fr.facebook.com\/velovitamine\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3230,6 +3441,7 @@
         "email": "thierry.soulat@9online.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3245,6 +3457,7 @@
         "email": "olivier@provence-randos.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3260,6 +3473,7 @@
         "email": "raphsuivezleguide@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3275,6 +3489,7 @@
         "email": "pyrenees_liberte@orange.fr",
         "site_internet": "https:\/\/pyrennesliberte.com - https:\/\/www.facebook.com\/pyreneesliberte\/ - https:\/\/www.instagram.com\/pyrenees_liberte\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3290,6 +3505,7 @@
         "email": "jlduplessis@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3305,6 +3521,7 @@
         "email": "jorgenski@yahoo.fr",
         "site_internet": "https:\/\/ubaye-riding-vtt.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3320,6 +3537,7 @@
         "email": "contact@lecolovelo.fr",
         "site_internet": "https:\/\/www.lecolovelo.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3335,6 +3553,7 @@
         "email": "joberteric@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3350,6 +3569,7 @@
         "email": "duverbecqcyril@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3365,6 +3585,7 @@
         "email": "maxime.auge@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3380,6 +3601,7 @@
         "email": "pierre.lehmann@mac.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3395,6 +3617,7 @@
         "email": "laurent.molinier@unilever.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3410,6 +3633,7 @@
         "email": "stephane@altaterra-cantal.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3425,6 +3649,7 @@
         "email": "dom.duval@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3440,6 +3665,7 @@
         "email": "sylvain.alcaraz.chx@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3455,6 +3681,7 @@
         "email": "alain.biles@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3470,6 +3697,7 @@
         "email": "jdurand2288@gmail.com",
         "site_internet": "https:\/\/www.algajola-sportetnature.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3485,6 +3713,7 @@
         "email": "simon.masi38@gmail.com",
         "site_internet": "http:\/\/www.simonmasi.com - https:\/\/www.facebook.com\/masi.simon\/?ref=hl -https:\/\/www.instagram.com\/simon.masi\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3500,6 +3729,7 @@
         "email": "lagriole@gmail.com",
         "site_internet": "https:\/\/www.lagriole.com - https:\/\/www.facebook.com\/lecolebuissonniereetcogite - https:\/\/www.instagram.com\/randolarzac\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3515,6 +3745,7 @@
         "email": "clement.bras@wanadoo.fr",
         "site_internet": "https:\/\/www.latraceverte.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3530,6 +3761,7 @@
         "email": "bonnetolivier@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3545,6 +3777,7 @@
         "email": "janicaudsamy@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3560,6 +3793,7 @@
         "email": "degrol@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3575,6 +3809,7 @@
         "email": "florian.letondeur@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3590,6 +3825,7 @@
         "email": "jean-michel.falgoux@wanadoo.fr",
         "site_internet": "https:\/\/location-vtt-superbesse.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3605,6 +3841,7 @@
         "email": "guilhembernabike@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3620,6 +3857,7 @@
         "email": "debesmounier@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3635,6 +3873,7 @@
         "email": "benjaminjoffre@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3650,6 +3889,7 @@
         "email": "luc.thiebaud@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3665,6 +3905,7 @@
         "email": "marcrosaz@yahoo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3680,6 +3921,7 @@
         "email": "mehdicontaux@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3695,6 +3937,7 @@
         "email": "rando-bike@laposte.net",
         "site_internet": "https:\/\/www.rando-bike.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3710,6 +3953,7 @@
         "email": "nicomillon@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3725,6 +3969,7 @@
         "email": "manuarcs@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3740,6 +3985,7 @@
         "email": "b-valcke@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3755,6 +4001,7 @@
         "email": "contact@sbcompany.fr",
         "site_internet": "https:\/\/www.sbcompany.fr - https:\/\/www.facebook.com\/skibikeco",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3770,6 +4017,7 @@
         "email": "pierrebuisson74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3785,6 +4033,7 @@
         "email": "queyrasdepic@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3800,6 +4049,7 @@
         "email": "mat.66@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3815,6 +4065,7 @@
         "email": "samgeorges74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3830,6 +4081,7 @@
         "email": "audran_f@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3845,6 +4097,7 @@
         "email": "jade.boissiere.lesperou@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3860,6 +4113,7 @@
         "email": "gregchasles@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3875,6 +4129,7 @@
         "email": "poree.vianney@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3890,6 +4145,7 @@
         "email": "manuel.simonot@live.fr",
         "site_internet": "https:\/\/mas-cassac.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3905,6 +4161,7 @@
         "email": "theo.galy@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3920,6 +4177,7 @@
         "email": "bebermontagne63@gmail.com",
         "site_internet": "http:\/\/www.vulcabike.fr\/ ; http:\/\/www.element-terre.org\/ ; http:\/\/www.guides-asv.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3935,6 +4193,7 @@
         "email": "contact@bikehorizon.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3950,6 +4209,7 @@
         "email": "languedocvttevasion@gmail.com",
         "site_internet": "https:\/\/languedoc-vtt-evasion.com\/ - https:\/\/www.facebook.com\/languedocvttevasion",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3965,6 +4225,7 @@
         "email": "contact@nicolas-roulland.com",
         "site_internet": "https:\/\/www.vtt-dordogne-perigord.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3980,6 +4241,7 @@
         "email": "syrenees@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -3995,6 +4257,7 @@
         "email": "joan.fournil@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4010,6 +4273,7 @@
         "email": "rando.cantal@orange.fr",
         "site_internet": "https:\/\/pierrot-fabriqueaventures.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4025,6 +4289,7 @@
         "email": "akhapilat@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4040,6 +4305,7 @@
         "email": "laurent.suhard@sfr.fr",
         "site_internet": "https:\/\/www.randonneeencorse.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4055,6 +4321,7 @@
         "email": "ventosey@hotmail.fr",
         "site_internet": "https:\/\/montavelo.free.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4070,6 +4337,7 @@
         "email": "contact@localvelo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4085,6 +4353,7 @@
         "email": "andre@vecteurmontagne.com",
         "site_internet": "https:\/\/www.vecteurmontagne.com - https:\/\/www.facebook.com\/vecteurmontagne\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4100,6 +4369,7 @@
         "email": "olivier@moniteurvelo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4115,6 +4385,7 @@
         "email": "alexandrebedu@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4130,6 +4401,7 @@
         "email": "alan@chez2e.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4145,6 +4417,7 @@
         "email": "mercier.loic@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4160,6 +4433,7 @@
         "email": "thibaut.legastelois@gmail.com",
         "site_internet": "https:\/\/www.itineride.fr\/ - https:\/\/www.facebook.com\/Itineride - https:\/\/www.instagram.com\/itineride_guide.navette.mtb",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4175,6 +4449,7 @@
         "email": "alexandre.malartre@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4190,6 +4465,7 @@
         "email": "planetevtt@gmail.com",
         "site_internet": "https:\/\/www.planete-vtt.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4205,6 +4481,7 @@
         "email": "azurbiketour@aol.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4220,6 +4497,7 @@
         "email": "antoine@naturavelo.com",
         "site_internet": "http:\/\/naturavelo.com\/encadrement",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4235,6 +4513,7 @@
         "email": "ch.scemama@gmail.com",
         "site_internet": "https:\/\/ecolevtt-lagrave.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4250,6 +4529,7 @@
         "email": "j_bouvier@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4265,6 +4545,7 @@
         "email": "elorain1@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4280,6 +4561,7 @@
         "email": "anto.lemaire@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4295,6 +4577,7 @@
         "email": "magalihumbert@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4310,6 +4593,7 @@
         "email": "pitouym@yahoo.fr",
         "site_internet": "https:\/\/www.pymsports.fr - https:\/\/www.facebook.com\/pymsports",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4325,6 +4609,7 @@
         "email": "igoulenbenoit@hotmail.fr",
         "site_internet": "http:\/\/www.igoulen-location-velo.fr\/4.html",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4340,6 +4625,7 @@
         "email": "lavalbru@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4355,6 +4641,7 @@
         "email": "martial@amc7.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4370,6 +4657,7 @@
         "email": "vincent.minervini.velo@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4385,6 +4673,7 @@
         "email": "jeromepaquelet70@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4400,6 +4689,7 @@
         "email": "florian.belhacene@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4415,6 +4705,7 @@
         "email": "contact@la-maison-hotel.fr",
         "site_internet": "https:\/\/www.rando-aubrac.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4430,6 +4721,7 @@
         "email": "sylvain.fre@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4445,6 +4737,7 @@
         "email": "laurent-nataf@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4460,6 +4753,7 @@
         "email": "nicolas.uranga@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4475,6 +4769,7 @@
         "email": "vttstamandleseaux@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4490,6 +4785,7 @@
         "email": "franck.machabert@mailo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4505,6 +4801,7 @@
         "email": "janinfred73@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4520,6 +4817,7 @@
         "email": "dumais.o@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4535,6 +4833,7 @@
         "email": "nathanaelaem@gmail.com",
         "site_internet": "https:\/\/nathanael-aem.fr - https:\/\/www.facebook.com\/Nathanael-accompagnateur-en-montagne-et-moniteur-VTT-113098943670657",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4550,6 +4849,7 @@
         "email": "jimyka@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4565,6 +4865,7 @@
         "email": "florent.lau@caramail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4580,6 +4881,7 @@
         "email": "jordanjeanniot@laposte.net",
         "site_internet": "https:\/\/www.facebook.com\/ALAONBIKE\/ - https:\/\/www.instagram.com\/jordancoaching\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4595,6 +4897,7 @@
         "email": "comandon.pascal@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4610,6 +4913,7 @@
         "email": "martinezadrien38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4625,6 +4929,7 @@
         "email": "jegousportraining@gmail.com",
         "site_internet": "https:\/\/www.jegousportraining.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4640,6 +4945,7 @@
         "email": "simdellis@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4655,6 +4961,7 @@
         "email": "adrienperretcoach@gmail.com",
         "site_internet": "http:\/\/www.baugesbikeacademie.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4670,6 +4977,7 @@
         "email": "pormone@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4685,6 +4993,7 @@
         "email": "olivier.cointe@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4700,6 +5009,7 @@
         "email": "turcguillem@gmail.com",
         "site_internet": "https:\/\/casabicicleta.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4715,6 +5025,7 @@
         "email": "dumasylvain07@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4730,6 +5041,7 @@
         "email": "ecolevtthautesvosges@gmail.com",
         "site_internet": "http:\/\/www.laurentcahon.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4745,6 +5057,7 @@
         "email": "bonnefoycharly@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4760,6 +5073,7 @@
         "email": "gabriel-tisserant@orange.fr",
         "site_internet": "https:\/\/serrechevtt.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4767,7 +5081,7 @@
         "code": 867,
         "name": "Sébastien PELLICCIA",
         "slug": "id=867&contact=Sébastien PELLICCIA",
-        "position": "44.563792,6.483386",
+        "position": "44.563211,6.494411",
         "adressel1": "5 rue du Cépage - les vignes 4 - Le vega",
         "cp": "05200",
         "city": "EMBRUN",
@@ -4775,6 +5089,7 @@
         "email": "ecolevttqueyras@gmail.com",
         "site_internet": "https:\/\/www.vtt-queyras.fr \/ Facebook: ecole vtt-Queyras, seb pelliccia",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4790,6 +5105,7 @@
         "email": "patbonfand@gmail.com",
         "site_internet": "https:\/\/justbikeacademy.wixsite.com\/ecolevtt",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4805,6 +5121,7 @@
         "email": "yvan.bordis@wanadoo.fr",
         "site_internet": "https:\/\/www.facebook.com\/yvan.montamigo",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4820,6 +5137,7 @@
         "email": "chiottijerome@aol.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4835,6 +5153,7 @@
         "email": "vincent@versolution.fr",
         "site_internet": "https:\/\/www.formation-savoirrouleravelo.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4850,6 +5169,7 @@
         "email": "loic86.mercier@gmail.com",
         "site_internet": "https:\/\/riderscamp.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4865,6 +5185,7 @@
         "email": "sylvain@lepleindair.com",
         "site_internet": "https:\/\/lepleindair.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4880,6 +5201,7 @@
         "email": "thomas@qispi.fr",
         "site_internet": "https:\/\/www.qispi.fr - https:\/\/www.facebook.com\/qispi.fr - https:\/\/www.instagram.com\/qispi\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4895,6 +5217,7 @@
         "email": "th.roulland@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4910,6 +5233,7 @@
         "email": "toralmanu@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4925,6 +5249,7 @@
         "email": "arvanvtt@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4940,6 +5265,7 @@
         "email": "dorianzzz-mcf@yahoo.fr",
         "site_internet": "http:\/\/www.dorianzuretti.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4955,6 +5281,7 @@
         "email": "sergebarnel@hotmail.com",
         "site_internet": "http:\/\/www.gravelbybarnel.fr\/434765841",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4970,6 +5297,7 @@
         "email": "thomabanne@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -4985,6 +5313,7 @@
         "email": "hubert_harmand@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5000,6 +5329,7 @@
         "email": "patetcriss@yahoo.fr",
         "site_internet": "https:\/\/www.facebook.com\/Spirit-VTT-1709148245972191\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5015,6 +5345,7 @@
         "email": "romain_favareille@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5030,6 +5361,7 @@
         "email": "sylvainploton@gmail.com",
         "site_internet": "https:\/\/www.ecolevttchatel.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5045,6 +5377,7 @@
         "email": "bmxvar@aol.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5060,6 +5393,7 @@
         "email": "p.heraud@nautilac.fr",
         "site_internet": "https:\/\/detente-ebike.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5075,6 +5409,7 @@
         "email": "julien.legrosjl@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5090,6 +5425,7 @@
         "email": "nicolas_carrie@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5105,6 +5441,7 @@
         "email": "martinstich@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5120,6 +5457,7 @@
         "email": "paulhanromain@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5135,6 +5473,7 @@
         "email": "gautier.kevin38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5150,6 +5489,7 @@
         "email": "nicolasradic@yahoo.fr",
         "site_internet": "http:\/\/www.bebike.fr\/a\/presentation-12\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5165,6 +5505,7 @@
         "email": "d.saillet@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5180,6 +5521,7 @@
         "email": "samos.lambert@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5195,6 +5537,7 @@
         "email": "echappeevtt2a@gmail.com",
         "site_internet": "https:\/\/www.echappeevtt2a.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5210,6 +5553,7 @@
         "email": "danielmercier-guide@orange.fr",
         "site_internet": "https:\/\/danielmercier-guide.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5225,6 +5569,7 @@
         "email": "m.braun95@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5240,6 +5585,7 @@
         "email": "galland.antoine@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5255,6 +5601,7 @@
         "email": "rieussecsebastien@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5270,6 +5617,7 @@
         "email": "brunobertrand81@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5285,6 +5633,7 @@
         "email": "contact@lafeclaz-vtt.com",
         "site_internet": "https:\/\/www.lafeclaz-vtt.com\/ - https:\/\/www.facebook.com\/vttraquetteslafeclaz - https:\/\/www.instagram.com\/fecla_venture_vtt_raquettes\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5300,6 +5649,7 @@
         "email": "fporret567@gmail.com",
         "site_internet": "https:\/\/www.alpesaventures.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5315,6 +5665,7 @@
         "email": "loic51.gerard@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5330,6 +5681,7 @@
         "email": "jerome.tavernier1@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5345,6 +5697,7 @@
         "email": "raph.suchet@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5360,6 +5713,7 @@
         "email": "bikeprogress74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5375,6 +5729,7 @@
         "email": "lolobertelle@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5390,6 +5745,7 @@
         "email": "maxx181@msn.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5405,6 +5761,7 @@
         "email": "james.mb@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5420,6 +5777,7 @@
         "email": "antoinegrange73@yahoo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5435,6 +5793,7 @@
         "email": "titouvilleneuve@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5450,6 +5809,7 @@
         "email": "loicgallot@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5465,6 +5825,7 @@
         "email": "l.cherbonnel@free.fr",
         "site_internet": "http:\/\/vttpopey.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5480,6 +5841,7 @@
         "email": "ludivine.loze@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5495,6 +5857,7 @@
         "email": "gillot.patrick@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5510,6 +5873,7 @@
         "email": "levelotrement@gmail.com",
         "site_internet": "https:\/\/www.levelotrement.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5525,6 +5889,7 @@
         "email": "thomas.sauvaget@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5540,6 +5905,7 @@
         "email": "yab050@yahoo.fr",
         "site_internet": "https:\/\/bikesider.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5555,6 +5921,7 @@
         "email": "m.simonnet28@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5570,6 +5937,7 @@
         "email": "guillaumechapuis43@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5585,6 +5953,7 @@
         "email": "patparl@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5600,6 +5969,7 @@
         "email": "thierryamara@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5615,6 +5985,7 @@
         "email": "perrinquentin74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5630,6 +6001,7 @@
         "email": "dupingaetan@gmail.com",
         "site_internet": "http:\/\/gaetandupin.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5645,6 +6017,7 @@
         "email": "manumoniteuresf@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5660,6 +6033,7 @@
         "email": "david.moreau@cimes-event.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5675,6 +6049,7 @@
         "email": "contact@gitelesastragales.fr",
         "site_internet": "https:\/\/www.astragales.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5690,6 +6065,7 @@
         "email": "contact@1001sentiers.fr",
         "site_internet": "https:\/\/www.1001sentiers.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5705,6 +6081,7 @@
         "email": "jbcappa@hotmail.fr",
         "site_internet": "https:\/\/www.orientation-nature.com - https:\/\/www.facebook.com\/onbikevtt\/?ref=ts&fref=ts",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5720,6 +6097,7 @@
         "email": "o.desclaux@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5735,6 +6113,7 @@
         "email": "coach.velorun@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/VELORUN974",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5750,6 +6129,7 @@
         "email": "b.dom@free.fr",
         "site_internet": "https:\/\/www.dombreusch.com - https:\/\/www.facebook.com\/breusch",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5765,6 +6145,7 @@
         "email": "vbizel@gmail.com",
         "site_internet": "https:\/\/www.lechaletdlacroe.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5780,6 +6161,7 @@
         "email": "pierre.layachi@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5795,6 +6177,7 @@
         "email": "philippe.carros@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5810,6 +6193,7 @@
         "email": "remy.mendez@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5825,6 +6209,7 @@
         "email": "olivierfaivre.hautjura@gmail.com",
         "site_internet": "https:\/\/facebook.com\/vtthautjura",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5840,6 +6225,7 @@
         "email": "lucas.corcy@gmail.com",
         "site_internet": "http:\/\/alaonbike.over-blog.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5855,6 +6241,7 @@
         "email": "mariannejappe63@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5870,6 +6257,7 @@
         "email": "jacquinst73@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5885,6 +6273,7 @@
         "email": "thierry.franz@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5900,6 +6289,7 @@
         "email": "jsc.leroux@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5915,6 +6305,7 @@
         "email": "norbert.teyssier@free.fr",
         "site_internet": "https:\/\/www.facebook.com\/vertacospirit\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5930,6 +6321,7 @@
         "email": "will.hck05@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5945,6 +6337,7 @@
         "email": "floski05@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5960,6 +6353,7 @@
         "email": "pierre@marache.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5975,6 +6369,7 @@
         "email": "jeremie.yourte@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -5990,6 +6385,7 @@
         "email": "x.contucci@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6005,6 +6401,7 @@
         "email": "fleurymargo@gmail.com",
         "site_internet": "https:\/\/www.naturalnfit.fr - https:\/\/www.facebook.com\/naturalnfit.fr\/ - https:\/\/www.instagram.com\/naturalnfit.fr\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6020,6 +6417,7 @@
         "email": "jerebufa@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6035,6 +6433,7 @@
         "email": "am.alextrem@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6050,6 +6449,7 @@
         "email": "lionel.sibler@wanadoo.fr",
         "site_internet": "https:\/\/www.evasion-electtrick.com - https:\/\/www.facebook.com\/evasionelecttrick\/ - https:\/\/www.instagram.com\/evasionelecttrick\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6065,6 +6465,7 @@
         "email": "thomas.schuster@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6080,6 +6481,7 @@
         "email": "desserprit.mathieu@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6095,6 +6497,7 @@
         "email": "s_hanoux@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6110,6 +6513,7 @@
         "email": "robin974@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6125,6 +6529,7 @@
         "email": "crcbike@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6140,6 +6545,7 @@
         "email": "m.chebance@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6155,6 +6561,7 @@
         "email": "boyer.rbn@gmail.com",
         "site_internet": "https:\/\/www.velonature.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6170,6 +6577,7 @@
         "email": "paul.chometon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6185,6 +6593,7 @@
         "email": "alain.broglia@9online.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6200,6 +6609,7 @@
         "email": "mael.murray@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6215,6 +6625,7 @@
         "email": "chriss.mejean.lapaire@gmail.com",
         "site_internet": "https:\/\/www.triplebuses.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6230,6 +6641,7 @@
         "email": "alexandre.geffroy@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6245,6 +6657,7 @@
         "email": "vevem@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6260,6 +6673,7 @@
         "email": "authamayou@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6275,6 +6689,7 @@
         "email": "thouvenot.jarno@gmail.com",
         "site_internet": "https:\/\/www.jarno-montagne.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6290,6 +6705,7 @@
         "email": "julien@escapeo.fr",
         "site_internet": "https:\/\/www.escapeo.fr - https:\/\/www.facebook.com\/Escapeo.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6305,6 +6721,7 @@
         "email": "paul.bovis06@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6320,6 +6737,7 @@
         "email": "nikobergh@hotmail.com",
         "site_internet": "https:\/\/http:\/\/www.vercors-sports-loisirs.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6335,6 +6753,7 @@
         "email": "celinerepellin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6350,6 +6769,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6365,6 +6785,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6380,6 +6801,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6395,6 +6817,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6410,6 +6833,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6425,6 +6849,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6440,6 +6865,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6455,6 +6881,7 @@
         "email": "indypetignat@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6470,6 +6897,7 @@
         "email": "vincent.armellin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6485,6 +6913,7 @@
         "email": "izoardcycling@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6500,6 +6929,7 @@
         "email": "fmeerpoel@gmail.com",
         "site_internet": "https:\/\/www.lesrouleursdemecaniques.fr - https:\/\/www.facebook.com\/lesrouleursdemecaniques\/ - https:\/\/www.instagram.com\/lesrouleursdemecaniques\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6515,6 +6945,7 @@
         "email": "smbikeacademy@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6530,6 +6961,7 @@
         "email": "pierre.tsikis@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6537,7 +6969,7 @@
         "code": 1124,
         "name": "Laurent BORDES",
         "slug": "id=1124&contact=Laurent BORDES",
-        "position": "43.524849,5.436279",
+        "position": "43.578293,5.457313",
         "adressel1": "Porte N°5 - Cabinet de Kiné - 80 Avenue de Perouse",
         "cp": "13100",
         "city": "AIX EN PROVENCE",
@@ -6545,6 +6977,7 @@
         "email": "bordeslaurent@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6560,6 +6993,7 @@
         "email": "sam@bikevillage.co.uk",
         "site_internet": "https:\/\/www.bikevillage.co.uk",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6575,6 +7009,7 @@
         "email": "sebastienbedu@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6590,6 +7025,7 @@
         "email": "adrienjp@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6605,6 +7041,7 @@
         "email": "doug.raf@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6620,6 +7057,7 @@
         "email": "pierremiklic13@gmail.com",
         "site_internet": "https:\/\/www.pierremiklic.fr - https:\/\/www.facebook.com\/pierre.miklic",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6635,6 +7073,7 @@
         "email": "jacques.yba@gmail.com",
         "site_internet": "https:\/\/yetibikeaventure.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6650,6 +7089,7 @@
         "email": "jerome.vuagnoux@dbmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6665,6 +7105,7 @@
         "email": "mathieu0987@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6680,6 +7121,7 @@
         "email": "gseigneur@me.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6695,6 +7137,7 @@
         "email": "matchenal@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6710,6 +7153,7 @@
         "email": "pierre.daviau@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6725,6 +7169,7 @@
         "email": "baudlaurent@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6740,6 +7185,7 @@
         "email": "arno.escargot@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6755,6 +7201,7 @@
         "email": "herveperret@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6770,6 +7217,7 @@
         "email": "valbike73@gmail.com",
         "site_internet": "https:\/\/www.valbike.net",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6785,6 +7233,7 @@
         "email": "valerie_salaris@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6800,6 +7249,7 @@
         "email": "jouanjan.t@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6815,6 +7265,7 @@
         "email": "nicobeuc@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6830,6 +7281,7 @@
         "email": "davyfrancois@msn.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6845,6 +7297,7 @@
         "email": "christophegandy@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6860,6 +7313,7 @@
         "email": "robinsally@msn.com",
         "site_internet": "https:\/\/montavelo.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6875,6 +7329,7 @@
         "email": "micdel73@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6890,6 +7345,7 @@
         "email": "leo.delfourbarsacq@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6905,6 +7361,7 @@
         "email": "benj.astier@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6920,6 +7377,7 @@
         "email": "patricksbidwell@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6935,6 +7393,7 @@
         "email": "benjiassemat@gmail.com",
         "site_internet": "https:\/\/backcountrymtb.com\/ - https:\/\/www.facebook.com\/BCMTB - https:\/\/www.instagram.com\/backcountrymtb.guide\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6950,6 +7409,7 @@
         "email": "arnau2d@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6965,6 +7425,7 @@
         "email": "yann.martinot1@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6980,6 +7441,7 @@
         "email": "crobin83@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -6995,6 +7457,7 @@
         "email": "louis.labikeschool@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7010,6 +7473,7 @@
         "email": "veloexperience47@gmail.com",
         "site_internet": "https:\/\/www.velo-experience.com\/ - https:\/\/www.facebook.com\/veloexperience\/?ref=page_internal",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7025,6 +7489,7 @@
         "email": "somatmartin@gmail.com",
         "site_internet": "https:\/\/bim-bike.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7040,6 +7505,7 @@
         "email": "moniteurvtt@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7055,6 +7521,7 @@
         "email": "rom.janin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7070,6 +7537,7 @@
         "email": "m_devillaz-genoux@orange.fr",
         "site_internet": "https:\/\/www.highhillsmtb.com - https:\/\/www.facebook.com\/HighhillsmtbChamonix\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7085,6 +7553,7 @@
         "email": "charlesdh@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7100,6 +7569,7 @@
         "email": "manegliamarion@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7115,6 +7585,7 @@
         "email": "manuelmichel5481@neuf.fr",
         "site_internet": "https:\/\/facebook.com\/ecoledevttdelavalleedugiffre",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7130,6 +7601,7 @@
         "email": "meyersebastien@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7145,6 +7617,7 @@
         "email": "remidevobike@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7160,6 +7633,7 @@
         "email": "dbarranger@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7175,6 +7649,7 @@
         "email": "ludohemmery@hotmail.com",
         "site_internet": "https:\/\/energytrialshow.com\/ludovic\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7190,6 +7665,7 @@
         "email": "cygalou11@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7205,6 +7681,7 @@
         "email": "frederic.caulier@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7220,6 +7697,7 @@
         "email": "aubertjrmy@yahoo.fr",
         "site_internet": "https:\/\/auchaletduguide.wixsite.com\/montgenevre - https:\/\/www.facebook.com\/jeremy.aubert.549 - https:\/\/www.instagram.com\/jeremy_aubert_\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7235,6 +7713,7 @@
         "email": "yves.ferronniere@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7250,6 +7729,7 @@
         "email": "dunand.guillaume@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7265,6 +7745,7 @@
         "email": "eric@ericbarone.fr",
         "site_internet": "https:\/\/www.ericbarone.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7280,6 +7761,7 @@
         "email": "alexandre.belledent@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7295,6 +7777,7 @@
         "email": "rvcuoq@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7310,6 +7793,7 @@
         "email": "melanie.e@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7325,6 +7809,7 @@
         "email": "contact@ourea-chartreuse.fr",
         "site_internet": "https:\/\/www.ourea-chartreuse.fr - https:\/\/www.facebook.com\/Ourea-sports-outdoor-1189327584506917 - https:\/\/www.instagram.com\/oureachartreuse\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7340,6 +7825,7 @@
         "email": "cedravanel@aol.com",
         "site_internet": "https:\/\/www.ravanel-mtb.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7355,6 +7841,7 @@
         "email": "contact@velo-baie-somme.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7370,6 +7857,7 @@
         "email": "alban.comparat@hotmail.fr",
         "site_internet": "https:\/\/customyourcycling.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7385,6 +7873,7 @@
         "email": "louismartin_06@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7400,6 +7889,7 @@
         "email": "jmthomet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7415,6 +7905,7 @@
         "email": "selliernancy08@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7430,6 +7921,7 @@
         "email": "gayelord.brun@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7445,6 +7937,7 @@
         "email": "bikeaventure@gmail.com",
         "site_internet": "https:\/\/www.bikeaventure.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7460,6 +7953,7 @@
         "email": "contact@bikesession.eu",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7475,6 +7969,7 @@
         "email": "servantcamille@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7490,6 +7985,7 @@
         "email": "roblin.dan04@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7505,6 +8001,7 @@
         "email": "cap.velo.creuse@gmail.com",
         "site_internet": "https:\/\/www.capvelocreuse.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7520,6 +8017,7 @@
         "email": "philignatio@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7535,6 +8033,7 @@
         "email": "stan.peyronnet@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7550,6 +8049,7 @@
         "email": "joantroin@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7565,6 +8065,7 @@
         "email": "sebmichel@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7580,6 +8081,7 @@
         "email": "guillaumebernard@rocketmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7595,6 +8097,7 @@
         "email": "floriangarcin@hotmail.fr",
         "site_internet": "https:\/\/www.alligatti-biking.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7610,6 +8113,7 @@
         "email": "juardito@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7625,6 +8129,7 @@
         "email": "contact.etienne.vtt@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7640,6 +8145,7 @@
         "email": "samrando@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7655,6 +8161,7 @@
         "email": "samuel.peridy@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7670,6 +8177,7 @@
         "email": "frederic_lafon@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7685,6 +8193,7 @@
         "email": "joris.bagnol@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7700,6 +8209,7 @@
         "email": "info@legenduro.com",
         "site_internet": "https:\/\/www.legenduro.com ; https:\/\/www.facebook.com\/legenduro\/ ; https:\/\/www.instagram.com\/legenduro\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7715,6 +8225,7 @@
         "email": "fabienpolletvillard@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7730,6 +8241,7 @@
         "email": "michel.essoe@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7745,6 +8257,7 @@
         "email": "wim.cooreman@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7760,6 +8273,7 @@
         "email": "loic.dougnac@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7775,6 +8289,7 @@
         "email": "esnaolaignacio@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7790,6 +8305,7 @@
         "email": "yobrison74@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7805,6 +8321,7 @@
         "email": "club@bikeschoolevolution.com",
         "site_internet": "https:\/\/bikeschoolevolution.com - https:\/\/facebook.com\/bike.school.evolution -",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7820,6 +8337,7 @@
         "email": "bike.experience.guide@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7835,6 +8353,7 @@
         "email": "phil.blanc74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7850,6 +8369,7 @@
         "email": "guiguiroussier@yahoo.fr",
         "site_internet": "https:\/\/www.instagram.com\/guiguiroussier\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7865,6 +8385,7 @@
         "email": "s.friaud@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7880,6 +8401,7 @@
         "email": "phenixcyclingcoaching@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7895,6 +8417,7 @@
         "email": "victor.dubois@orange.fr",
         "site_internet": "https:\/\/www.vtt-trail.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7910,6 +8433,7 @@
         "email": "verolletd@gmail.com",
         "site_internet": "https:\/\/fr-fr.facebook.com\/Smooky-Bike-1670459626599300\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7925,6 +8449,7 @@
         "email": "baptistejay@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7940,6 +8465,7 @@
         "email": "notin.jp.pro@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7955,6 +8481,7 @@
         "email": "sabrinajonnier@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7970,6 +8497,7 @@
         "email": "kevin.mulon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -7985,6 +8513,7 @@
         "email": "frederic.schneider@ecomobiz.fr",
         "site_internet": "https:\/\/www.ecomobiz.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8000,6 +8529,7 @@
         "email": "chezpierric@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8015,6 +8545,7 @@
         "email": "sebastien.boterel@protrainingconcept.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8030,6 +8561,7 @@
         "email": "laurent@indoorbikepark.fr",
         "site_internet": "https:\/\/www.stride-indoorbikepark.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8045,6 +8577,7 @@
         "email": "emil.viart@gmail.com",
         "site_internet": "https:\/\/www.trolib.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8060,6 +8593,7 @@
         "email": "s.gourmelon@monobjectifvelo.com",
         "site_internet": "https:\/\/www.monobjectifvelo.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8075,6 +8609,7 @@
         "email": "emmanuel.asensi@ville-antony.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8090,6 +8625,7 @@
         "email": "sebcoach974@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/sebcoach974",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8105,6 +8641,7 @@
         "email": "91provelo@gmail.com",
         "site_internet": "https:\/\/www.provelo91.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8120,6 +8657,7 @@
         "email": "chevalletguy@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8135,6 +8673,7 @@
         "email": "johan.duchaine@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8150,6 +8689,7 @@
         "email": "olivierbrunaud@gmail.com",
         "site_internet": "https:\/\/www.egobike-montventoux.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8165,6 +8705,7 @@
         "email": "matthieubrun1979@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8180,6 +8721,7 @@
         "email": "benoitmauny17@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8195,6 +8737,7 @@
         "email": "solenevttcoach@gmail.com",
         "site_internet": "https:\/\/www.vttcoach.com - https:\/\/www.facebook.com\/vttcoach",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8210,6 +8753,7 @@
         "email": "delbarco.david@gmail.com",
         "site_internet": "https:\/\/baronniesbike.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8225,6 +8769,7 @@
         "email": "morgane.charre@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8240,6 +8785,7 @@
         "email": "contact@bikoach.com",
         "site_internet": "https:\/\/www.bikoach.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8255,6 +8801,7 @@
         "email": "audeninoantoine@gmail.com",
         "site_internet": "http:\/\/www.aventure-electrobike.com\/fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8270,6 +8817,7 @@
         "email": "p.f-13@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8285,6 +8833,7 @@
         "email": "melwin.lhaute@gmail.com",
         "site_internet": "http:\/\/www.melwin-lhaute.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8300,6 +8849,7 @@
         "email": "xavier.oble@gmail.com",
         "site_internet": "https:\/\/www.convergence-bike.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8315,6 +8865,7 @@
         "email": "alex.rudeau@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8330,6 +8881,7 @@
         "email": "cyril.ceuse@gmail.com",
         "site_internet": "http:\/\/hautesalpesevasion.free.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8345,6 +8897,7 @@
         "email": "o.bise66@gmail.com",
         "site_internet": "https:\/\/pumptrack-ecole-velo.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8360,6 +8913,7 @@
         "email": "h.combe@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8375,6 +8929,7 @@
         "email": "pol.lefebvre08@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8390,6 +8945,7 @@
         "email": "lionel.bonnel@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8405,6 +8961,7 @@
         "email": "jeanloucabut@gmail.com",
         "site_internet": "https:\/\/paradibike.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8420,6 +8977,7 @@
         "email": "julteul@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8435,6 +8993,7 @@
         "email": "socquetantoine@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8450,6 +9009,7 @@
         "email": "benoitfromaget@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8465,6 +9025,7 @@
         "email": "nawale.slaili@gmail.com",
         "site_internet": "https:\/\/www.alligatti-biking.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8480,6 +9041,7 @@
         "email": "ju.sansarny@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8495,6 +9057,7 @@
         "email": "lorianep@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8510,6 +9073,7 @@
         "email": "ecommobileconseil@gmail.com",
         "site_internet": "https:\/\/espacepama.org",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8525,6 +9089,7 @@
         "email": "ronanbrasou@googlemail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8540,6 +9105,7 @@
         "email": "giordi04@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8555,6 +9121,7 @@
         "email": "antoine.montegani@gmail.com",
         "site_internet": "https:\/\/www.seasonguiding.com - https:\/\/www.facebook.com\/seasonguidingchamonixmorzine - https:\/\/www.instagram.com\/season_guiding\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8570,6 +9137,7 @@
         "email": "emilyhorridge@gmail.com",
         "site_internet": "https:\/\/emilyhorridgemtb.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8585,6 +9153,7 @@
         "email": "benisolamartin@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8600,6 +9169,7 @@
         "email": "aurelie.baud2@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8615,6 +9185,7 @@
         "email": "dav.rolandez@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8630,6 +9201,7 @@
         "email": "franckblanc01@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8645,6 +9217,7 @@
         "email": "bart.julien.pro@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8660,6 +9233,7 @@
         "email": "f.cotte@73tracks.com",
         "site_internet": "https:\/\/www.73tracks.com - https:\/\/73Tracks bikeschool",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8675,6 +9249,7 @@
         "email": "wilfrid.delolme@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8690,6 +9265,7 @@
         "email": "olliejjon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8705,6 +9281,7 @@
         "email": "olivia.clarey@gmail.com",
         "site_internet": "https:\/\/bicycles-concept.jimdosite.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8720,6 +9297,7 @@
         "email": "keller.franck05@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8735,6 +9313,7 @@
         "email": "bonnet_jeremie@hotmail.fr",
         "site_internet": "https:\/\/www.altitudebikeschool.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8750,6 +9329,7 @@
         "email": "vttdesalpes@yahoo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8765,6 +9345,7 @@
         "email": "davidchoc594038@gmail.com",
         "site_internet": "https:\/\/www.guides2alpes.com\/activites\/vtt\/ - https:\/\/www.facebook.com\/VTT2alpesBDG",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8772,7 +9353,7 @@
         "code": 1395,
         "name": "Julien AMAT-CHEIL",
         "slug": "id=1395&contact=Julien AMAT-CHEIL",
-        "position": "42.917605,0.7155",
+        "position": "42.864728,0.79944",
         "adressel1": "Quartier Cabanous",
         "cp": "31440",
         "city": "BOUTX",
@@ -8780,6 +9361,7 @@
         "email": "amat.julien@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8795,6 +9377,7 @@
         "email": "millilucky@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8810,6 +9393,7 @@
         "email": "maumeguillaume@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8825,6 +9409,7 @@
         "email": "frederic.azzolin@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8840,6 +9425,7 @@
         "email": "spyki-05@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8855,6 +9441,7 @@
         "email": "renoton.laurie@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8870,6 +9457,7 @@
         "email": "waynecoates@hotmail.com",
         "site_internet": "https:\/\/www.instagram.com\/chamonixmtb\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8885,6 +9473,7 @@
         "email": "g0brunache@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8900,6 +9489,7 @@
         "email": "matthieuler@orange.fr",
         "site_internet": "https:\/\/www.facebook.com\/cajouevtt - https:\/\/www.instagram.com\/cajouevtt\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8915,6 +9505,7 @@
         "email": "pierreyvesliverneaux@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8930,6 +9521,7 @@
         "email": "granitbike@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/aurelien.thizy",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8945,6 +9537,7 @@
         "email": "etienneburel@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8960,6 +9553,7 @@
         "email": "sylvain-carron@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8975,6 +9569,7 @@
         "email": "skiextreme@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8990,6 +9585,7 @@
         "email": "tommy.trzaskus@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -8997,7 +9593,7 @@
         "code": 1416,
         "name": "Antoine MARTOIA",
         "slug": "id=1416&contact=Antoine MARTOIA",
-        "position": "44.553877,6.483764",
+        "position": "44.555456,6.485955",
         "adressel1": "La Clapiere - bâtiment les coquelicots",
         "cp": "05200",
         "city": "EMBRUN",
@@ -9005,6 +9601,7 @@
         "email": "martoiantoine@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9020,6 +9617,7 @@
         "email": "arnaudfabron@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9035,6 +9633,7 @@
         "email": "vjp.blanc@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9050,6 +9649,7 @@
         "email": "loic.lacaste@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9065,6 +9665,7 @@
         "email": "romainrochet@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9080,6 +9681,7 @@
         "email": "bikehome.shop@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9095,6 +9697,7 @@
         "email": "xavkhali1982@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9110,6 +9713,7 @@
         "email": "bumat.emmanuel@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9125,6 +9729,7 @@
         "email": "bitoure@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9140,6 +9745,7 @@
         "email": "trotteoccitanie@gmail.com",
         "site_internet": "http:\/\/www.pyrenees-escapades.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9155,6 +9761,7 @@
         "email": "luneaujulian@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9170,6 +9777,7 @@
         "email": "deb.motsch@gmail.com",
         "site_internet": "https:\/\/www.deborahmotsch.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9185,6 +9793,7 @@
         "email": "brissyxavier@gmail.com",
         "site_internet": "https:\/\/velectrip.fr\/ - https:\/\/www.facebook.com\/Velectrip - https:\/\/www.instagram.com\/laglissevelectrip\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9200,6 +9809,7 @@
         "email": "rodececile@aol.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9215,6 +9825,7 @@
         "email": "sameclate07@hotmail.com",
         "site_internet": "https:\/\/www.chaulet-plage.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9230,6 +9841,7 @@
         "email": "manon.crozet@outlook.fr",
         "site_internet": "https:\/\/www.facebook.com\/manoncrozet3",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9245,6 +9857,7 @@
         "email": "adrien.hoffer@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9260,6 +9873,7 @@
         "email": "flolefou@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9275,6 +9889,7 @@
         "email": "elliotfree@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9290,6 +9905,7 @@
         "email": "bartasbike@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9305,6 +9921,7 @@
         "email": "julie-duvert@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9320,6 +9937,7 @@
         "email": "elsa.gouraud@laposte.net",
         "site_internet": "https:\/\/guide-vtt-ardeche.business.site\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9335,6 +9953,7 @@
         "email": "theo@poudret.fr",
         "site_internet": "http:\/\/bikementor.fr\/ - https:\/\/theopoudret.wixsite.com\/theopoudret",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9350,6 +9969,7 @@
         "email": "jadercyclesservices@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9365,6 +9985,7 @@
         "email": "contact@peps-trike.fr",
         "site_internet": "https:\/\/peps-trike.fr - https:\/\/www.facebook.com\/PhilHoriz\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9380,6 +10001,7 @@
         "email": "maxime.guichardon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9395,6 +10017,7 @@
         "email": "pro2roomontlucon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9410,6 +10033,7 @@
         "email": "jcp.fort@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9425,6 +10049,7 @@
         "email": "ph.gardette@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9440,6 +10065,7 @@
         "email": "allwheelscoaching@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9455,6 +10081,7 @@
         "email": "davergne.xavier@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9470,6 +10097,7 @@
         "email": "david.g.cambon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9485,6 +10113,7 @@
         "email": "ylnormand@gmail.com",
         "site_internet": "http:\/\/qlntraining.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9500,6 +10129,7 @@
         "email": "yannclochard@mouvnature.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9515,6 +10145,7 @@
         "email": "contactmountainliberty@gmail.com",
         "site_internet": "https:\/\/www.mountainliberty.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9530,6 +10161,7 @@
         "email": "micadalnegro@gmail.com",
         "site_internet": "https:\/\/www.virage-montagne.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9545,6 +10177,7 @@
         "email": "emb@gmx.fr",
         "site_internet": "https:\/\/esprit-mountain-bike.unenuitailleurs.fr\/ - https:\/\/www.facebook.com\/Esprit-Mountain-Bike-EMB-296753310846523",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9560,6 +10193,7 @@
         "email": "pascal.baillet@wanadoo.fr",
         "site_internet": "https:\/\/www.bike-leman.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9575,6 +10209,7 @@
         "email": "toniosimon@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9590,6 +10225,7 @@
         "email": "bicydici@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/BICYDICI\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9605,6 +10241,7 @@
         "email": "ffranzella@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9620,6 +10257,7 @@
         "email": "downhill38@hotmail.fr",
         "site_internet": "https:\/\/www.francogliomtb.com - https:\/\/www.facebook.com\/Francoglio-MTB-Riding-Coaching-104462321360036",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9635,6 +10273,7 @@
         "email": "ours.tof@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9650,6 +10289,7 @@
         "email": "thomas.guerrairi@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9665,6 +10305,7 @@
         "email": "caroallagnat@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9680,6 +10321,7 @@
         "email": "bickerdikerobert@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9695,6 +10337,7 @@
         "email": "ludo.chalvet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9710,6 +10353,7 @@
         "email": "xavier.chauffin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9725,6 +10369,7 @@
         "email": "cherchi.maxime@gmail.com",
         "site_internet": "https:\/\/www.izibike.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9740,6 +10385,7 @@
         "email": "r.tabouret@gmail.com",
         "site_internet": "http:\/\/www.izibike.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9755,6 +10401,7 @@
         "email": "samuelmichemiche@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9770,6 +10417,7 @@
         "email": "benjamindemol@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9785,6 +10433,7 @@
         "email": "alexisbesan@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9800,6 +10449,7 @@
         "email": "simmennicolas@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9815,6 +10465,7 @@
         "email": "gael.faury@setupperformance.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9830,6 +10481,7 @@
         "email": "olivieranselmo@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9845,6 +10497,7 @@
         "email": "gillesjulien@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9860,6 +10513,7 @@
         "email": "gillesflorimond@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9875,6 +10529,7 @@
         "email": "sophie234898@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9890,6 +10545,7 @@
         "email": "manuel.villard@bbox.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9905,6 +10561,7 @@
         "email": "david.sarhy@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9920,6 +10577,7 @@
         "email": "pyreneescycles@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9935,6 +10593,7 @@
         "email": "steven.salu99@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9950,6 +10609,7 @@
         "email": "py.lever@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9965,6 +10625,7 @@
         "email": "julienbarreteaumtb@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9980,6 +10641,7 @@
         "email": "sebreibel@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -9995,6 +10657,7 @@
         "email": "falonfakoly64@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10010,6 +10673,7 @@
         "email": "laurent2alpes@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10025,6 +10689,7 @@
         "email": "alexandre.herbigneaux@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10040,6 +10705,7 @@
         "email": "emmanuelabt@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10055,6 +10721,7 @@
         "email": "laura_charles@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10070,6 +10737,7 @@
         "email": "renard.maxinse@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10085,6 +10753,7 @@
         "email": "tito.vivelavie@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10100,6 +10769,7 @@
         "email": "contact@dailydose-prod.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10115,6 +10785,7 @@
         "email": "cedroc22@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10130,6 +10801,7 @@
         "email": "yohancaron.contact@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10137,7 +10809,7 @@
         "code": 1541,
         "name": "Alexandre DELAUNAY",
         "slug": "id=1541&contact=Alexandre DELAUNAY",
-        "position": "43.401976,-1.627344",
+        "position": "45.777777,6.777777",
         "adressel1": "17 Avenue de lahonchipia - Bat C1",
         "cp": "64500",
         "city": "SAINT JEAN DE LUZ",
@@ -10145,6 +10817,7 @@
         "email": "delaunay.alexandre64@gmail.com",
         "site_internet": "https:\/\/bcbc64.fr - https:\/\/www.facebook.com\/bcbc64 - https:\/\/@bcbc64",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10160,6 +10833,7 @@
         "email": "rebullrichard@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/VTT-RideSunSmile-1974243276192461\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10175,6 +10849,7 @@
         "email": "thomas.bastien81@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10190,6 +10865,7 @@
         "email": "valentinlouin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10205,6 +10881,7 @@
         "email": "eric@roc-ride.fr",
         "site_internet": "http:\/\/www.roc-ride.fr\/ - https:\/\/www.facebook.com\/Roc-Ride-Enduro-VTT-571264589990265",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10220,6 +10897,7 @@
         "email": "jphi@velotopo.com",
         "site_internet": "https:\/\/www.velotopo.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10235,6 +10913,7 @@
         "email": "sebecobike@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/Sebecobike",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10250,6 +10929,7 @@
         "email": "tousavelo.xb@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10265,6 +10945,7 @@
         "email": "patrickfresquet@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10280,6 +10961,7 @@
         "email": "henri.mevolhon@gmail.com",
         "site_internet": "https:\/\/www.randonnee-05.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10295,6 +10977,7 @@
         "email": "pierreblancard@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10310,6 +10993,7 @@
         "email": "arbousset.eric@gmail.com",
         "site_internet": "https:\/\/www.rideetrando.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10325,6 +11009,7 @@
         "email": "matmatgo@yahoo.fr",
         "site_internet": "https:\/\/www.belle-balade.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10340,6 +11025,7 @@
         "email": "bbettini01@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10355,6 +11041,7 @@
         "email": "thierrysordello@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10370,6 +11057,7 @@
         "email": "l.fenet.moniteur.vtt@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10385,6 +11073,7 @@
         "email": "contact@lcbicycle.fr",
         "site_internet": "https:\/\/www.lcbicycle.fr - https:\/\/www.facebook.com\/CoachLCB89\/ - https:\/\/www.instagram.com\/coachlcb\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10400,6 +11089,7 @@
         "email": "laubastian74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10415,6 +11105,7 @@
         "email": "duduche_lyon@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10430,6 +11121,7 @@
         "email": "laurent.vella@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10445,6 +11137,7 @@
         "email": "naturotrement@orange.fr",
         "site_internet": "https:\/\/www.naturotrement.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10460,6 +11153,7 @@
         "email": "jeanphilippelanglois69@gmail.com",
         "site_internet": "https:\/\/www.bikingfarm.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10475,6 +11169,7 @@
         "email": "julienpace@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10490,6 +11185,7 @@
         "email": "lyd.morand@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10505,6 +11201,7 @@
         "email": "fsoucheeps@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10520,6 +11217,7 @@
         "email": "info@yellovelo.com",
         "site_internet": "https:\/\/yellovelo.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10535,6 +11233,7 @@
         "email": "edouard.planet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10550,6 +11249,7 @@
         "email": "alexrousseletmeta@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10565,6 +11265,7 @@
         "email": "babarleroideselephants1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10580,6 +11281,7 @@
         "email": "daugas.arthur@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10595,6 +11297,7 @@
         "email": "velo@ecolebabike.fr",
         "site_internet": "https:\/\/ecolebabike.fr - https:\/\/fr-fr.facebook.com\/pages\/category\/Sports---Recreation\/Ecole-de-v%C3%A9lo-BABike-538726993314654\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10610,6 +11313,7 @@
         "email": "lasnier.dav@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10625,6 +11329,7 @@
         "email": "tangdu744@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10640,6 +11345,7 @@
         "email": "bike.n.ride@outlook.fr",
         "site_internet": "https:\/\/www.facebook.com\/Bike.N.Ride.Pyrenees\/?modal=admin_todo_tour",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10655,6 +11361,7 @@
         "email": "tedpiccardski@gmail.com",
         "site_internet": "https:\/\/www.wat.bike ; https:\/\/www.facebook.com\/watbikeacademy",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10670,6 +11377,7 @@
         "email": "campeauxt@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10685,6 +11393,7 @@
         "email": "julien.bowman@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10700,6 +11409,7 @@
         "email": "cyclingaround@orange.fr",
         "site_internet": "https:\/\/www.cyclingaround.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10715,6 +11425,7 @@
         "email": "tom.lebreton@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10730,6 +11441,7 @@
         "email": "timytheaux@gmail.com",
         "site_internet": "https:\/\/izibike.fr ; https:\/\/www.instagram.com\/timytheaux\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10745,6 +11457,7 @@
         "email": "cmgendre@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10760,6 +11473,7 @@
         "email": "graham_pinkerton@yahoo.co.uk",
         "site_internet": "https:\/\/alpineflowmtb.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10775,6 +11489,7 @@
         "email": "zoe_maunier@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10790,6 +11505,7 @@
         "email": "amelietiss@hotmail.com",
         "site_internet": "https:\/\/www.facebook.com\/amelie.tissot.545 - https:\/\/www.instagram.com\/amelietissot\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10805,6 +11521,7 @@
         "email": "jerome.bonnefoi2@wanadoo.fr",
         "site_internet": "https:\/\/davaladecycles.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10820,6 +11537,7 @@
         "email": "liopuerta@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10835,6 +11553,7 @@
         "email": "luc.bedez@gmail.com",
         "site_internet": "https:\/\/www.goloisirs.eu\/ - https:\/\/www.facebook.com\/luchioavelo\/ - https:\/\/www.instagram.com\/go_loisirs\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10850,6 +11569,7 @@
         "email": "gaillard.cyr@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10865,6 +11585,7 @@
         "email": "girard.eymeric@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10880,6 +11601,7 @@
         "email": "francoisxaviernoel@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10895,6 +11617,7 @@
         "email": "niels.kiasma@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10910,6 +11633,7 @@
         "email": "hansmcle@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10925,6 +11649,7 @@
         "email": "romumoniteur@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/Romu-Philippot-Moniteur-vélo-102874801524698",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10940,6 +11665,7 @@
         "email": "mathilde@aveyronavelo.fr",
         "site_internet": "https:\/\/aveyronavelo.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10955,6 +11681,7 @@
         "email": "info@cyclodoux.com",
         "site_internet": "https:\/\/www.facebook.com\/cyclodoux - www.cyclodoux.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10970,6 +11697,7 @@
         "email": "sandra.billo@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -10985,6 +11713,7 @@
         "email": "colombelmax@gmail.com",
         "site_internet": "https:\/\/www.pyreneesmtbguide.com - https:\/\/facebook.com\/pyreneesmtbguide -",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11000,6 +11729,7 @@
         "email": "florentpoucet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11015,6 +11745,7 @@
         "email": "cantalvttevolution@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11030,6 +11761,7 @@
         "email": "saboiavelo@gmail.com",
         "site_internet": "https:\/\/saboiavelo.com - https:\/\/facebook.com\/saboiavelo - https:\/\/www.instagram.com\/saboia_velo",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11045,6 +11777,7 @@
         "email": "armandsurzur@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11060,6 +11793,7 @@
         "email": "barbabike05@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11075,6 +11809,7 @@
         "email": "antoine.sagot1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11090,6 +11825,7 @@
         "email": "e.granet05@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11105,6 +11841,7 @@
         "email": "djeune@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11120,6 +11857,7 @@
         "email": "ameliecacace@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11135,6 +11873,7 @@
         "email": "leroy-fabien@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11150,6 +11889,7 @@
         "email": "russ_anglais@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11165,6 +11905,7 @@
         "email": "jeanbaptistepincon@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11180,6 +11921,7 @@
         "email": "cyrilchauvet29@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11195,6 +11937,7 @@
         "email": "gefouq@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11210,6 +11953,7 @@
         "email": "kenael.godde@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11225,6 +11969,7 @@
         "email": "christophe.saint-aubin@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11240,6 +11985,7 @@
         "email": "gwenaelentrainement@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11255,6 +12001,7 @@
         "email": "gaspardchirol@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11270,6 +12017,7 @@
         "email": "julien@velorange.fr",
         "site_internet": "http:\/\/www.velorange.fr\/ - https:\/\/www.facebook.com\/V%C3%A9lorange-108338374427323",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11285,6 +12033,7 @@
         "email": "jm.sallee@laposte.net",
         "site_internet": "http:\/\/www.jmsallee.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11300,6 +12049,7 @@
         "email": "ch.quentin@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11315,6 +12065,7 @@
         "email": "direction@electricmove.fr",
         "site_internet": "https:\/\/electricmove.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11330,6 +12081,7 @@
         "email": "olivier.mulliez@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11345,6 +12097,7 @@
         "email": "emilienne.bourdon@protonmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11360,6 +12113,7 @@
         "email": "josebarbosa84@aol.com",
         "site_internet": "https:\/\/www.veloroccavaillon.fr\/en-savoir-plus\/moniteurs-59105",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11375,6 +12129,7 @@
         "email": "remos74@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11390,6 +12145,7 @@
         "email": "regis.tige@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11405,6 +12161,7 @@
         "email": "brian042698@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11420,6 +12177,7 @@
         "email": "aymeric.stpaul@ridin-family.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11435,6 +12193,7 @@
         "email": "bike.session.multi.activites@gmail.com",
         "site_internet": "https:\/\/bikesessionmultiac.wixsite.com\/website - https:\/\/www.instagram.com\/bike.session.multi.activites\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11450,6 +12209,7 @@
         "email": "lahautevallee.rando.vtt@gmail.com",
         "site_internet": "https:\/\/www.randoveroniquedupre.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11465,6 +12225,7 @@
         "email": "victorandre84@hotmail.com",
         "site_internet": "https:\/\/www.reliefsetnature.com - https:\/\/www.facebook.com\/ReliefsNature - https:\/\/www.instagram.com\/reliefsnature\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11480,6 +12241,7 @@
         "email": "schmitz.j@sfr.fr",
         "site_internet": "https:\/\/www.montagnarbres.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11495,6 +12257,7 @@
         "email": "bicyclevasion@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11510,6 +12273,7 @@
         "email": "hugomtbcoaching@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11525,6 +12289,7 @@
         "email": "lionelschwartz@lescyclesduterroir.com",
         "site_internet": "https:\/\/www.lescyclesduterroir.com - https:\/\/www.facebook.com\/LesCyclesduTerroir - https:\/\/www.instagram.com\/lescyclesduterroir\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11540,6 +12305,7 @@
         "email": "patrick.ricoure@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11555,6 +12321,7 @@
         "email": "jc.fichera@naturevasion.com",
         "site_internet": "https:\/\/www.naturevasion.com - https:\/\/www.facebook.com\/NaturEvasionVar - https:\/\/www.instagram.com\/natur.evasion\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11570,6 +12337,7 @@
         "email": "adnvtt@yahoo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11585,6 +12353,7 @@
         "email": "lemagasin@brunovelo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11600,6 +12369,7 @@
         "email": "gauthier_cyrille@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11615,6 +12385,7 @@
         "email": "hello@ridecamps.eu",
         "site_internet": "https:\/\/www.ridecamps.eu",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11630,6 +12401,7 @@
         "email": "louis.arnould@mailo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11645,6 +12417,7 @@
         "email": "philippe.jordan35@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11660,6 +12433,7 @@
         "email": "loic.tournillon1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11667,7 +12441,7 @@
         "code": 1689,
         "name": "Romain TURCA",
         "slug": "id=1689&contact=Romain TURCA",
-        "position": "45.211033,4.677535",
+        "position": "45.212032,4.675741",
         "adressel1": "22 rue des lierres - Fély",
         "cp": "07100",
         "city": "ROIFFIEUX",
@@ -11675,6 +12449,7 @@
         "email": "goupilaventure07@gmail.com",
         "site_internet": "https:\/\/goupilaventure - https:\/\/goupilaventure",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11690,6 +12465,7 @@
         "email": "melanie.pugin@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11705,6 +12481,7 @@
         "email": "adriensakalava@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11720,6 +12497,7 @@
         "email": "omeynet207@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11735,6 +12513,7 @@
         "email": "maxime.giraud05@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11750,6 +12529,7 @@
         "email": "ol.blac@laposte.net",
         "site_internet": "https:\/\/www.vel-olive.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11765,6 +12545,7 @@
         "email": "jpvmoniteurcycliste@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11780,6 +12561,7 @@
         "email": "berth.arthur@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11795,6 +12577,7 @@
         "email": "pierredurillon@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11810,6 +12593,7 @@
         "email": "iclo25@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11825,6 +12609,7 @@
         "email": "youkimaster@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11840,6 +12625,7 @@
         "email": "mat.cirech@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11855,6 +12641,7 @@
         "email": "mika3504@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11862,7 +12649,7 @@
         "code": 1705,
         "name": "Jeanmarc GULLY",
         "slug": "id=1705&contact=Jeanmarc GULLY",
-        "position": "45.777777,6.777777",
+        "position": "48.614002,7.791588",
         "adressel1": "2 rue Alfred Thimmesch",
         "cp": "67000",
         "city": "STRASBOURG",
@@ -11870,6 +12657,7 @@
         "email": "jeanmarc.gully@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/Vtt67",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11885,6 +12673,7 @@
         "email": "johannponcon@gmail.com",
         "site_internet": "https:\/\/www.alltracks.fr - https:\/\/www.facebook.com\/VTTALLTRACKS - https:\/\/www.instagram.com\/alltracks_villard\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11900,6 +12689,7 @@
         "email": "coroudil@laposte.net",
         "site_internet": "https:\/\/www.facebook.com\/corentin.roudil - https:\/\/www.instagram.com\/corentin_roudil\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11915,6 +12705,7 @@
         "email": "marie.laure.heitz@numericable.fr",
         "site_internet": "https:\/\/cigogneavelo.eu - https:\/\/www.facebook.com\/cigogneavelo",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11930,6 +12721,7 @@
         "email": "timothee.willem@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11945,6 +12737,7 @@
         "email": "bbikebelleville@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11960,6 +12753,7 @@
         "email": "ppuech@hotmail.com",
         "site_internet": "https:\/\/m.facebook.com\/FeelSingleTrack\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11975,6 +12769,7 @@
         "email": "martincuchet@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -11990,6 +12785,7 @@
         "email": "philippeaubin.emv@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12005,6 +12801,7 @@
         "email": "theo.rommeluere@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12020,6 +12817,7 @@
         "email": "lucas.spielmann@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12035,6 +12833,7 @@
         "email": "james_tansley@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12050,6 +12849,7 @@
         "email": "jean-pascal.fiore@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12065,6 +12865,7 @@
         "email": "gregoire.delloye@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12080,6 +12881,7 @@
         "email": "elie.1995@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12095,6 +12897,7 @@
         "email": "aligibbski@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12110,6 +12913,7 @@
         "email": "flx.gabet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12125,6 +12929,7 @@
         "email": "contact@avelo.bzh",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12140,6 +12945,7 @@
         "email": "deltaridemtb@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12155,6 +12961,7 @@
         "email": "boivin.maxime@gmail.com",
         "site_internet": "https:\/\/roulemapoule.com + Insta",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12170,6 +12977,7 @@
         "email": "hervegras26@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12185,6 +12993,7 @@
         "email": "richard.fabie@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12200,6 +13009,7 @@
         "email": "tidams@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12215,6 +13025,7 @@
         "email": "eliott.baud21@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12230,6 +13041,7 @@
         "email": "vtt@cap-liberte.fr",
         "site_internet": "https:\/\/www.cap-liberte.fr - https:\/\/fr-fr.facebook.com\/foissac.laurent",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12245,6 +13057,7 @@
         "email": "contact@corpulse.info",
         "site_internet": "http:\/\/www.corpulse.info - https:\/\/www.facebook.com\/corpulse.contact",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12252,7 +13065,7 @@
         "code": 1740,
         "name": "Timothé BRINGER",
         "slug": "id=1740&contact=Timothé BRINGER",
-        "position": "43.711872,7.103575",
+        "position": "45.777777,6.777777",
         "adressel1": "2579 chemin de la sine",
         "cp": "06140",
         "city": "VENCE",
@@ -12260,6 +13073,7 @@
         "email": "timothe.bringer@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12275,6 +13089,7 @@
         "email": "chaudfr.pro@gmail.com",
         "site_internet": "https:\/\/sites.google.com\/view\/ludisae\/accueil",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12290,6 +13105,7 @@
         "email": "quillietalix@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12305,6 +13121,7 @@
         "email": "adrientippett.vtt@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12320,6 +13137,7 @@
         "email": "baptiste.turrel@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12335,6 +13153,7 @@
         "email": "parigobike@gmail.com",
         "site_internet": "https:\/\/www.parigobike.com\/ - https:\/\/www.facebook.com\/Parigobike-106363044584417\/ - https:\/\/www.facebook.com\/hashtag\/parigobike",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12350,6 +13169,7 @@
         "email": "do.decouttere@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12365,6 +13185,7 @@
         "email": "bmdu43@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12380,6 +13201,7 @@
         "email": "louisavelo@etik.com",
         "site_internet": "https:\/\/lepleindair.com - https:\/\/www.facebook.com\/IsulaoNesca\/ - https:\/\/instagram.com\/isulaonesca",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12395,6 +13217,7 @@
         "email": "sergentmarius@gmail.com",
         "site_internet": "https:\/\/wat.bike - https:\/\/www.facebook.com\/watbikeacademy\/ - https:\/\/www.instagram.com\/wat.bike\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12410,6 +13233,7 @@
         "email": "thomas.cardon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12425,6 +13249,7 @@
         "email": "maxime.delamare@outlook.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12440,6 +13265,7 @@
         "email": "thibault.bmxvdg@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12455,6 +13281,7 @@
         "email": "bazu@bazuexperience.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12470,6 +13297,7 @@
         "email": "contact@cyclessudouest.com",
         "site_internet": "https:\/\/www.cyclessudouest.com\/ - https:\/\/www.facebook.com\/cyclessudouest",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12485,6 +13313,7 @@
         "email": "manucel@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12500,6 +13329,7 @@
         "email": "hgallier48.hg@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12515,6 +13345,7 @@
         "email": "frederic.ostian@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12530,6 +13361,7 @@
         "email": "laurent.petit6387@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12545,6 +13377,7 @@
         "email": "celineetnies26@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12560,6 +13393,7 @@
         "email": "franztrial67@live.fr",
         "site_internet": "https:\/\/www.vttsensation.com - https:\/\/www.facebook.com\/VTTsensation\/ - https:\/\/www.instagram.com\/vttsensation\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12575,6 +13409,7 @@
         "email": "rferge@gmail.com",
         "site_internet": "https:\/\/velomad.com - https:\/\/facebook.com\/velomad",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12590,6 +13425,7 @@
         "email": "istvan-caillet@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12605,6 +13441,7 @@
         "email": "mayeuldeclercq@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12620,6 +13457,7 @@
         "email": "olivier@velolive.fr",
         "site_internet": "https:\/\/velolive.fr -",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12635,6 +13473,7 @@
         "email": "eaugais@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12650,6 +13489,7 @@
         "email": "pierremoniteurvtt@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12665,6 +13505,7 @@
         "email": "jonathan.revillottirot@gmail.com",
         "site_internet": "https:\/\/www.jodelapcoaching.com\/ - https:\/\/www.facebook.com\/jodelapcoaching - https:\/\/www.instagram.com\/jodelapcoaching\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12680,6 +13521,7 @@
         "email": "cyrdudouet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12695,6 +13537,7 @@
         "email": "vanbuynderwim@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12710,6 +13553,7 @@
         "email": "vanbuynderski@yahoo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12725,6 +13569,7 @@
         "email": "h.lasmaries@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12740,6 +13585,7 @@
         "email": "thomas.feuillade@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12755,6 +13601,7 @@
         "email": "greg.genin38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12770,6 +13617,7 @@
         "email": "mattrotte65@gmail.com",
         "site_internet": "https:\/\/mattrotte.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12785,6 +13633,7 @@
         "email": "contact@moniteurvtt.com",
         "site_internet": "https:\/\/www.moniteurvtt.com - https:\/\/www.facebook.com\/Julien.R13",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12800,6 +13649,7 @@
         "email": "intech.dev@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12815,6 +13665,7 @@
         "email": "vincent.clary@lilo.org",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12830,6 +13681,7 @@
         "email": "florent.cellier@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/florent.cellier.9",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12845,6 +13697,7 @@
         "email": "guillaume.mendez.apa@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12860,6 +13713,7 @@
         "email": "combeyk@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12875,6 +13729,7 @@
         "email": "alexandre.burnel@icloud.com",
         "site_internet": "https:\/\/ www.atmos-nature.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12890,6 +13745,7 @@
         "email": "sebfoi@gmail.com",
         "site_internet": "https:\/\/www.rock-ice-snow.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12905,6 +13761,7 @@
         "email": "bberlaud@gmail.com",
         "site_internet": "https:\/\/www.riots.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12920,6 +13777,7 @@
         "email": "fat.tracks.bike@gmail.com",
         "site_internet": "http:\/\/www.fat-tracks-bike.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12935,6 +13793,7 @@
         "email": "laurent.tonoval@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12950,6 +13809,7 @@
         "email": "revebike@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12965,6 +13825,7 @@
         "email": "stephanepyrenees@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12980,6 +13841,7 @@
         "email": "gaellepradet@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -12995,6 +13857,7 @@
         "email": "thomasvidotto@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13010,6 +13873,7 @@
         "email": "micka.ride.13@gmail.com",
         "site_internet": "https:\/\/mickael-brunello-coaching.business.site\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13025,6 +13889,7 @@
         "email": "ckronikdesam@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13040,6 +13905,7 @@
         "email": "20.100.berthier@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13055,6 +13921,7 @@
         "email": "quentin.michaux@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13070,6 +13937,7 @@
         "email": "arthur.deblonde42@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13085,6 +13953,7 @@
         "email": "jacques.gadoin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13100,6 +13969,7 @@
         "email": "yann-girard@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13115,6 +13985,7 @@
         "email": "sim.turca@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13130,6 +14001,7 @@
         "email": "jcp.duchesne@sfr.fr",
         "site_internet": "https:\/\/lescombesdouces.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13145,6 +14017,7 @@
         "email": "arthur.sainthon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13160,6 +14033,7 @@
         "email": "maeldd@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13175,6 +14049,7 @@
         "email": "xavier.dezon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13190,6 +14065,7 @@
         "email": "greg.roustone@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13205,6 +14081,7 @@
         "email": "nicolaswins@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13220,6 +14097,7 @@
         "email": "odile.sant@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13235,6 +14113,7 @@
         "email": "lioerh@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13250,6 +14129,7 @@
         "email": "noecouton@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13265,6 +14145,7 @@
         "email": "corentin.macinot@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13280,6 +14161,7 @@
         "email": "jo.salahun@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13295,6 +14177,7 @@
         "email": "brice.viardgaudin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13310,6 +14193,7 @@
         "email": "maelollivier.etudiant@gmail.com",
         "site_internet": "https:\/\/www.instagram.com\/mael_o\/?hl=fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13325,6 +14209,7 @@
         "email": "mercier.laure14@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13340,6 +14225,7 @@
         "email": "matthieu.corre@outlook.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13355,6 +14241,7 @@
         "email": "simonferal@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13370,6 +14257,7 @@
         "email": "toto.cottier@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13385,6 +14273,7 @@
         "email": "emmagrilleta@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13400,6 +14289,7 @@
         "email": "morelpro13@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13415,6 +14305,7 @@
         "email": "jeremprt7@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13430,6 +14321,7 @@
         "email": "remy.guerriero@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13445,6 +14337,7 @@
         "email": "contact@cycloterrehappy.com",
         "site_internet": "https:\/\/cycoterrehappy.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13460,6 +14353,7 @@
         "email": "maelrobert05@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13475,6 +14369,7 @@
         "email": "julien.paret42@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13490,6 +14385,7 @@
         "email": "juliolivaresanchez@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13505,6 +14401,7 @@
         "email": "sauquet.thomas@me.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13520,6 +14417,7 @@
         "email": "antoine_gadon@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13535,6 +14433,7 @@
         "email": "nicolas.ovize@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13550,6 +14449,7 @@
         "email": "clement.lecalvez@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13565,6 +14465,7 @@
         "email": "arnaud.rota@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13580,6 +14481,7 @@
         "email": "henry_tidy@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13595,6 +14497,7 @@
         "email": "quentinvj111@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13610,6 +14513,7 @@
         "email": "marcvttpyrenees31@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13625,6 +14529,7 @@
         "email": "tony.burguine@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13640,6 +14545,7 @@
         "email": "renault.alexandre246@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13655,6 +14561,7 @@
         "email": "leomathieu.lm@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13670,6 +14577,7 @@
         "email": "catherineheredia1610@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13685,6 +14593,7 @@
         "email": "t-vataux@hotmail.com",
         "site_internet": "https:\/\/naturevtt.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13700,6 +14609,7 @@
         "email": "pierre.aumoite@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13715,6 +14625,7 @@
         "email": "bouhacene45@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13730,6 +14641,7 @@
         "email": "mathieueymard@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13745,6 +14657,7 @@
         "email": "vince911@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13760,6 +14673,7 @@
         "email": "aude.friaud@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13775,6 +14689,7 @@
         "email": "lucie.sagotduvauroux@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13790,6 +14705,7 @@
         "email": "matt.anim@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13805,6 +14721,7 @@
         "email": "lebouteiller.v@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13820,6 +14737,7 @@
         "email": "thibaut.nantois@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13835,6 +14753,7 @@
         "email": "a.chaillan01@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13850,6 +14769,7 @@
         "email": "ricildeblo@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13865,6 +14785,7 @@
         "email": "flokiki6@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13880,6 +14801,7 @@
         "email": "francoischery57@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13895,6 +14817,7 @@
         "email": "luc.bernard8@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13910,6 +14833,7 @@
         "email": "romain.larnaudie@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13925,6 +14849,7 @@
         "email": "victorpetit1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13940,6 +14865,7 @@
         "email": "cycledivin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13955,6 +14881,7 @@
         "email": "lrrcoaching34@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13970,6 +14897,7 @@
         "email": "noen11@protonmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -13985,6 +14913,7 @@
         "email": "arthur.pic1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14000,6 +14929,7 @@
         "email": "ivaldi_aurore@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14015,6 +14945,7 @@
         "email": "vin100thomas@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14030,6 +14961,7 @@
         "email": "hugo.buffard39@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14045,6 +14977,7 @@
         "email": "baillymaitrethomas@ymail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14060,6 +14993,7 @@
         "email": "gustav.ljungars@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14075,6 +15009,7 @@
         "email": "mazuez.guy@orange.fr",
         "site_internet": "https:\/\/www.foncine-evasion.com - https:\/\/www.facebook.com\/g.mazuez",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14090,6 +15025,7 @@
         "email": "igor.boutrou@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14105,6 +15041,7 @@
         "email": "seb.ski74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14120,6 +15057,7 @@
         "email": "tristan.monrocq@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14135,6 +15073,7 @@
         "email": "loic.trimolet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14150,6 +15089,7 @@
         "email": "dropi@rocketmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14165,6 +15105,7 @@
         "email": "terraxbikes@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14180,6 +15121,7 @@
         "email": "aventurenature64@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14195,6 +15137,7 @@
         "email": "franoneill_@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14210,6 +15153,7 @@
         "email": "kevin@laporte-cadence.fr",
         "site_internet": "https:\/\/www.laporte-cadence.fr\/ - https:\/\/www.instagram.com\/kthedoor\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14225,6 +15169,7 @@
         "email": "manulegall@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14240,6 +15185,7 @@
         "email": "guinaflo.bodet@bbox.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14255,6 +15201,7 @@
         "email": "fabien.voisin20@gmail.com",
         "site_internet": "https:\/\/www.smoothbiking.fr - https:\/\/www.facebook.com\/smoothbikingschool - https:\/\/www.instagram.com\/smoothbiking",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14270,6 +15217,7 @@
         "email": "calas.tom@gmail.com",
         "site_internet": "https:\/\/alpesaventures.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14285,6 +15233,7 @@
         "email": "recourtquent@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14300,6 +15249,7 @@
         "email": "clement.duclos31@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14315,6 +15265,7 @@
         "email": "lea.weill@yahoo.fr",
         "site_internet": "https:\/\/www.leavelo.fr - https:\/\/www.instagram.com\/leawll\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14330,6 +15281,7 @@
         "email": "thierry.sanary@hotmail.fr",
         "site_internet": "https:\/\/www.espritbike.com - https:\/\/www.facebook.com\/espritbike -https:\/\/instagram.com\/esprit_bike",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14345,6 +15297,7 @@
         "email": "bassat.fran6@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14360,6 +15313,7 @@
         "email": "stijnvanbosseghem@yahoo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14375,6 +15329,7 @@
         "email": "titouan.clair@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14390,6 +15345,7 @@
         "email": "maxencelabrache15@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14405,6 +15361,7 @@
         "email": "rdesgranges30@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14420,6 +15377,7 @@
         "email": "cyclingride.coach@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14435,6 +15393,7 @@
         "email": "greg-kermit@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14450,6 +15409,7 @@
         "email": "ferdinand.jeansebastien@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14465,6 +15425,7 @@
         "email": "lorisblengini@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14480,6 +15441,7 @@
         "email": "t.meuzard@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14495,6 +15457,7 @@
         "email": "claire.colin.rousseau@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14510,6 +15473,7 @@
         "email": "gab.b@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14525,6 +15489,7 @@
         "email": "yannletolguenec@gmail.com",
         "site_internet": "https:\/\/www.tolq.fr - www.instagram.com\/ianzero\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14540,6 +15505,7 @@
         "email": "giacomobasile83@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14555,6 +15521,7 @@
         "email": "ewen.gb@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14570,6 +15537,7 @@
         "email": "emilie.maison@gmail.com",
         "site_internet": "https:\/\/www.instagram.com\/ardecho_bike_camp\/?utm_medium=copy_link",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14585,6 +15553,7 @@
         "email": "mariafermoda@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14600,6 +15569,7 @@
         "email": "yohann.foco@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14615,6 +15585,7 @@
         "email": "joss175@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14630,6 +15601,7 @@
         "email": "tomromeochambers@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14645,6 +15617,7 @@
         "email": "julien.tworek@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14660,6 +15633,7 @@
         "email": "pierre.ferronniere@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14675,6 +15649,7 @@
         "email": "kev.a@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14690,6 +15665,7 @@
         "email": "avenloutems@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14705,6 +15681,7 @@
         "email": "florian.alexandre38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14720,6 +15697,7 @@
         "email": "vinceflyer225@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14735,6 +15713,7 @@
         "email": "cancade.julien@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14750,6 +15729,7 @@
         "email": "delattre.caroline@hotmail.com",
         "site_internet": "https:\/\/www.pyrenmood.com - https:\/\/www.instagram.com\/pyren_mood\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14765,6 +15745,7 @@
         "email": "clarys.valentin@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14780,6 +15761,7 @@
         "email": "baptistebonnard88@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14795,6 +15777,7 @@
         "email": "lepetitplateau09@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14810,6 +15793,7 @@
         "email": "trottier.anthony@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14825,6 +15809,7 @@
         "email": "theo2003degaube@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/theo.mathieu.10 - https:\/\/www.instagram.com\/theo_mathieu04\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14840,6 +15825,7 @@
         "email": "simon.deniel.guide@gmail.com",
         "site_internet": "https:\/\/www.simondguide-en-liberte.com",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14855,6 +15841,7 @@
         "email": "carribou38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14870,6 +15857,7 @@
         "email": "rudycolletchx@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14885,6 +15873,7 @@
         "email": "manon.bonnevie@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14900,6 +15889,7 @@
         "email": "aymericjalbaud@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14915,6 +15905,7 @@
         "email": "lehmannjeanluc@alsace-velo.fr",
         "site_internet": "https:\/\/alsace-velo.fr\/ - https:\/\/www.facebook.com\/Alsaceveloecole68 - https:\/\/www.linkedin.com\/company\/alsace-velo\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14930,6 +15921,7 @@
         "email": "antoine-rv@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14945,6 +15937,7 @@
         "email": "micmic974@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14960,6 +15953,7 @@
         "email": "anath.dott@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14975,6 +15969,7 @@
         "email": "antodom83160@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -14990,6 +15985,7 @@
         "email": "yael.mayenc@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15005,6 +16001,7 @@
         "email": "yannzec@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15020,6 +16017,7 @@
         "email": "pepe62pp@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15035,6 +16033,7 @@
         "email": "jolarie@outlook.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15050,6 +16049,7 @@
         "email": "antoninbret450@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15065,6 +16065,7 @@
         "email": "mbikeprogress@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15080,6 +16081,7 @@
         "email": "michelchambron@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15095,6 +16097,7 @@
         "email": "besse.florence@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15110,6 +16113,7 @@
         "email": "jeffbr91@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15125,6 +16129,7 @@
         "email": "contact@bivouac.fr",
         "site_internet": "https:\/\/bivouac.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15140,6 +16145,7 @@
         "email": "jean-baptiste@lapetite-escapade.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15155,6 +16161,7 @@
         "email": "matthieul2@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15170,6 +16177,7 @@
         "email": "noryeva.bike@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15185,6 +16193,7 @@
         "email": "florian.sirieix19@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15200,6 +16209,7 @@
         "email": "thomas.despiau@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15215,6 +16225,7 @@
         "email": "venzin.francois77@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15230,6 +16241,7 @@
         "email": "a.laplace525@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15245,6 +16257,7 @@
         "email": "theoclaude668@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15260,6 +16273,7 @@
         "email": "tom.leonhart2512@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15275,6 +16289,7 @@
         "email": "montillier.a@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15290,6 +16305,7 @@
         "email": "matheog73@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15305,6 +16321,7 @@
         "email": "arnaud.curtolo@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15320,6 +16337,7 @@
         "email": "jpe.esteves@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15335,6 +16353,7 @@
         "email": "alexchapman79@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15350,6 +16369,7 @@
         "email": "koziol.eric@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15365,6 +16385,7 @@
         "email": "skiff104@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15380,6 +16401,7 @@
         "email": "gwenlann.ollivier@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15395,6 +16417,7 @@
         "email": "agnesfort@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15410,6 +16433,7 @@
         "email": "dieco@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15425,6 +16449,7 @@
         "email": "timothee.ledoux@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15440,6 +16465,7 @@
         "email": "olivia.kemp39@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15455,6 +16481,7 @@
         "email": "guillaume.labesse75@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15470,6 +16497,7 @@
         "email": "thomas.salvat2@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15485,6 +16513,7 @@
         "email": "sylvain8373@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15500,6 +16529,7 @@
         "email": "theo.daumas1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15515,6 +16545,7 @@
         "email": "emmanueltrillat@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15530,6 +16561,7 @@
         "email": "leo325@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15545,6 +16577,7 @@
         "email": "christophe.hourlier@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15560,6 +16593,7 @@
         "email": "bastien.gonsolin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15567,7 +16601,7 @@
         "code": 2020,
         "name": "Pierre VASSY",
         "slug": "id=2020&contact=Pierre VASSY",
-        "position": "44.33127,5.06383",
+        "position": "44.331397,5.063457",
         "adressel1": "8 clos des oliviers - Rue du Ventoux",
         "cp": "26110",
         "city": "VINSOBRES",
@@ -15575,6 +16609,7 @@
         "email": "pierre.v26@zoho.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15590,6 +16625,7 @@
         "email": "xavier.rauzy@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15605,6 +16641,7 @@
         "email": "alaingirard192310@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15620,6 +16657,7 @@
         "email": "quentinperrot.cycle@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15635,6 +16673,7 @@
         "email": "renoeuropean2alp@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15650,6 +16689,7 @@
         "email": "kevin.kiston@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15665,6 +16705,7 @@
         "email": "edouard.cop@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15680,6 +16721,7 @@
         "email": "clementbaduel@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15695,6 +16737,7 @@
         "email": "ugo78_teamonlyspad@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15710,6 +16753,7 @@
         "email": "maxence.millon.mtb@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15725,6 +16769,7 @@
         "email": "robin.antoine.mottez@gmail.com",
         "site_internet": "https:\/\/rocknride-queyras.com\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15740,6 +16785,7 @@
         "email": "maxleclerre@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15755,6 +16801,7 @@
         "email": "nathanvoisin@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15770,6 +16817,7 @@
         "email": "p.lac@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15785,6 +16833,7 @@
         "email": "vttae69@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15800,6 +16849,7 @@
         "email": "jule.merle@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15815,6 +16865,7 @@
         "email": "rmnlgd@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15830,6 +16881,7 @@
         "email": "seb_australie@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15845,6 +16897,7 @@
         "email": "ludovic.ozier@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15860,6 +16913,7 @@
         "email": "julien.foucart38@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/julien.foucart.9 - https:\/\/www.instagram.com\/juju_foucart\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15875,6 +16929,7 @@
         "email": "f.duquesnoy.velosport@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15890,6 +16945,7 @@
         "email": "cc.cyclo21@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15905,6 +16961,7 @@
         "email": "doriansimonet3@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15920,6 +16977,7 @@
         "email": "alixguyon@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15935,6 +16993,7 @@
         "email": "sof00093@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15950,6 +17009,7 @@
         "email": "louispaulat@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15965,6 +17025,7 @@
         "email": "batiste.rolland26@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15980,6 +17041,7 @@
         "email": "jeffjamila00@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -15995,6 +17057,7 @@
         "email": "lionel700@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16010,6 +17073,7 @@
         "email": "sportsloisirsevolution@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16025,6 +17089,7 @@
         "email": "husson974@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16040,6 +17105,7 @@
         "email": "magalie.pichot05@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16055,6 +17121,7 @@
         "email": "speeddelrey@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16070,6 +17137,7 @@
         "email": "impalapix@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16085,6 +17153,7 @@
         "email": "cdroussent@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16100,6 +17169,7 @@
         "email": "nipigelet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16115,6 +17185,7 @@
         "email": "sylviecasier@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16130,6 +17201,7 @@
         "email": "lesage.jade@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16145,6 +17217,7 @@
         "email": "davdeguelle@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16160,6 +17233,7 @@
         "email": "nicopilliard@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16175,6 +17249,7 @@
         "email": "vincent.tonnaire@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16190,6 +17265,7 @@
         "email": "sophie.desagazan@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16205,6 +17281,7 @@
         "email": "carine.saintours-payerne@mailo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16220,6 +17297,7 @@
         "email": "samuel_koenig@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16235,6 +17313,7 @@
         "email": "paco.mathieu@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16250,6 +17329,7 @@
         "email": "jardinat27@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16265,6 +17345,7 @@
         "email": "florian.grohens@gmail.com",
         "site_internet": "https:\/\/instagram.com\/flowgroh?igshid=YmMyMTA2M2Y=",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16280,6 +17361,7 @@
         "email": "enrouelibre38@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16295,6 +17377,7 @@
         "email": "medeleff_celine@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16310,6 +17393,7 @@
         "email": "contact@michael-moniteur-cycliste.fr",
         "site_internet": "https:\/\/www.michael-moniteur-cycliste.fr\/",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16325,6 +17409,7 @@
         "email": "vincentpacoud12@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16340,6 +17425,7 @@
         "email": "etiennefantino@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16355,6 +17441,7 @@
         "email": "fablasserre@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16370,6 +17457,7 @@
         "email": "flibike64@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16385,6 +17473,7 @@
         "email": "julien@cycleorganisation.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16400,6 +17489,7 @@
         "email": "marie.gastineau@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16415,6 +17505,7 @@
         "email": "mazoyer.francois@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16430,6 +17521,7 @@
         "email": "Sylvia.jacquot@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16445,6 +17537,7 @@
         "email": "feronemiline@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16460,6 +17553,7 @@
         "email": "maximerouquet12@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16475,6 +17569,7 @@
         "email": "noah.cardona34@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16490,6 +17585,7 @@
         "email": "marie.jacquet7@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16505,6 +17601,7 @@
         "email": "lecru@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16520,6 +17617,7 @@
         "email": "jb.dufour@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16535,6 +17633,7 @@
         "email": "unam.cayre@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16550,6 +17649,7 @@
         "email": "baptiste1338@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16565,6 +17665,7 @@
         "email": "solive.prosport@gmail.com",
         "site_internet": "https:\/\/www.rdv-cycles.fr - https:\/\/www.facebook.com\/rdvcyclesandconnect",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16580,6 +17681,7 @@
         "email": "jeremie.epivent@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16595,6 +17697,7 @@
         "email": "christian.chanteau@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16610,6 +17713,7 @@
         "email": "deberdt.valentin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16625,6 +17729,7 @@
         "email": "re.cycle.aventure@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16640,6 +17745,7 @@
         "email": "dylan.gp@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16655,6 +17761,7 @@
         "email": "giacomazzi.tristan@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16670,6 +17777,7 @@
         "email": "pascaldaens@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16685,6 +17793,7 @@
         "email": "olivier.guilbert3@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16700,6 +17809,7 @@
         "email": "ju.rigault290883@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16715,6 +17825,7 @@
         "email": "apb.sylvan@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16730,6 +17841,7 @@
         "email": "bikestrip@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16745,6 +17857,7 @@
         "email": "elie.kaczmar@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16760,6 +17873,7 @@
         "email": "benjamincyclismede@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16775,6 +17889,7 @@
         "email": "benoit.belier15@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16790,6 +17905,7 @@
         "email": "soranabirsan@yahoo.co.nz",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16805,6 +17921,7 @@
         "email": "sarah-munoz@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16820,6 +17937,7 @@
         "email": "contact@tousaveloidf.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16835,6 +17953,7 @@
         "email": "matmtb73@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16850,6 +17969,7 @@
         "email": "sylvainmeucci@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16865,6 +17985,7 @@
         "email": "lespetitssavoirs@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16880,6 +18001,7 @@
         "email": "joel.mln70@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16895,6 +18017,7 @@
         "email": "vipyan16@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16910,6 +18033,7 @@
         "email": "dupinnicolas@sfr.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16925,6 +18049,7 @@
         "email": "christophe.mauger@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16940,6 +18065,7 @@
         "email": "contact@prolynx-sports.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16955,6 +18081,7 @@
         "email": "thomasvdc@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16970,6 +18097,7 @@
         "email": "borisamiot2@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -16985,6 +18113,7 @@
         "email": "tom.ledren22@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17000,6 +18129,7 @@
         "email": "yoann@itineyron.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17015,6 +18145,7 @@
         "email": "damien.grenie83@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17030,6 +18161,7 @@
         "email": "david.romain.69@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17045,6 +18177,7 @@
         "email": "how5224@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17060,6 +18193,7 @@
         "email": "julienjeure@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17075,6 +18209,7 @@
         "email": "quentin.roulet17@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17090,6 +18225,7 @@
         "email": "quentin.toncelli@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17105,6 +18241,7 @@
         "email": "arthur.varvenne@gmx.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17120,6 +18257,7 @@
         "email": "dimitri.lep@laposte.net",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17135,6 +18273,7 @@
         "email": "Clsport09@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17150,6 +18289,7 @@
         "email": "sylvio.zuger@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17165,6 +18305,7 @@
         "email": "l-equilibre@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17180,6 +18321,7 @@
         "email": "mavieavelo.pilat@mailo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17195,6 +18337,7 @@
         "email": "lchristophe70@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17210,6 +18353,7 @@
         "email": "jullien.paletierantonin@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17225,6 +18369,7 @@
         "email": "rouzaud.coline@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17240,6 +18385,7 @@
         "email": "charmes.theo@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17255,6 +18401,7 @@
         "email": "eltonrabineau.sound@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17270,6 +18417,7 @@
         "email": "lucile.michel.gem@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17285,6 +18433,7 @@
         "email": "fdz.arthur@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17300,6 +18449,7 @@
         "email": "antoinechauvin390@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17315,6 +18465,7 @@
         "email": "clementfeuvrier@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17330,6 +18481,7 @@
         "email": "maceopouches@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17345,6 +18497,7 @@
         "email": "vanou1234567890@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17360,6 +18513,7 @@
         "email": "olivier.molines@omcsl.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17375,6 +18529,7 @@
         "email": "william.breysse@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17390,6 +18545,7 @@
         "email": "christophe.dufour@veloscool.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17405,6 +18561,7 @@
         "email": "ijorand@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17420,6 +18577,7 @@
         "email": "camillapic@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17435,6 +18593,7 @@
         "email": "toutpourleski73@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17450,6 +18609,7 @@
         "email": "enzo94c@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17465,6 +18625,7 @@
         "email": "abyss.tattoo@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17480,6 +18641,7 @@
         "email": "Grandjean.jules88@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17495,6 +18657,7 @@
         "email": "fabien.sobieski@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17510,6 +18673,7 @@
         "email": "contact@velimpulse.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17525,6 +18689,7 @@
         "email": "renetalbot@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17540,6 +18705,7 @@
         "email": "sebastien.joucla@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17555,6 +18721,7 @@
         "email": "joris.80@live.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17570,6 +18737,7 @@
         "email": "krieg.samuel@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17585,6 +18753,7 @@
         "email": "eric.moles@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17600,6 +18769,7 @@
         "email": "miky943@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17615,6 +18785,7 @@
         "email": "nicolas.coconi@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17630,6 +18801,7 @@
         "email": "j.vialars@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17645,6 +18817,7 @@
         "email": "alexisbenna.pro@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17660,6 +18833,7 @@
         "email": "spanjgui@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17675,6 +18849,7 @@
         "email": "damdam_cyclescoach@icloud.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17690,6 +18865,7 @@
         "email": "jeremy.jaeg@mailo.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17705,6 +18881,7 @@
         "email": "jauris.linares@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17720,6 +18897,7 @@
         "email": "temotivsport@outlook.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17735,6 +18913,7 @@
         "email": "lucafourcade64@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17750,6 +18929,7 @@
         "email": "daniel.delattre@protonmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17765,6 +18945,7 @@
         "email": "kar.ya.sport63@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17780,6 +18961,7 @@
         "email": "defr.gregoire@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17795,6 +18977,7 @@
         "email": "290bci@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17810,6 +18993,7 @@
         "email": "dapra.manon@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17825,6 +19009,7 @@
         "email": "jerome.lhostis@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17840,6 +19025,7 @@
         "email": "gimans02@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17855,6 +19041,7 @@
         "email": "franz.liskowitch@neuf.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17870,6 +19057,7 @@
         "email": "montventouxroadcaptain@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17885,6 +19073,7 @@
         "email": "guillaume.larbeyou@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17900,6 +19089,7 @@
         "email": "ruizmathias74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17915,6 +19105,7 @@
         "email": "thierry.roch@oisocycle.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17930,6 +19121,7 @@
         "email": "corentin.spysschaert@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17945,6 +19137,7 @@
         "email": "ivan.bernard1305@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17960,6 +19153,7 @@
         "email": "cindybouchet@free.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17975,6 +19169,7 @@
         "email": "spedgy@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -17990,6 +19185,7 @@
         "email": "mister.catou@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18005,6 +19201,7 @@
         "email": "emmanuel.bruguet@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18020,6 +19217,7 @@
         "email": "yohann.maury1@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18035,6 +19233,7 @@
         "email": "bpezet@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18050,6 +19249,7 @@
         "email": "gayxavier1@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18065,6 +19265,7 @@
         "email": "fabri.julien@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18080,6 +19281,7 @@
         "email": "tibo.chabert@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18095,6 +19297,7 @@
         "email": "eric.libossart@orange.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18110,6 +19313,7 @@
         "email": "mathisrouanne@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18125,6 +19329,7 @@
         "email": "demovelo54000@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18140,6 +19345,7 @@
         "email": "bertussi.florian@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18155,6 +19361,7 @@
         "email": "lynxx5153@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18170,6 +19377,7 @@
         "email": "info@aventure-evasion.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18185,6 +19393,7 @@
         "email": "chenaljulien@hotmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18200,6 +19409,7 @@
         "email": "anais.reynaud05@gmail.com",
         "site_internet": "https:\/\/yetibikeaventure.com - https:\/\/www.facebook.com\/yetibikeaventure",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18215,6 +19425,7 @@
         "email": "cyrilandre39a@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18230,6 +19441,7 @@
         "email": "mistil@me.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18245,6 +19457,7 @@
         "email": "louis.w.diomede@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18260,6 +19473,7 @@
         "email": "frederic.vales74@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18275,6 +19489,7 @@
         "email": "tofheb@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18290,6 +19505,7 @@
         "email": "agnespetermann@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18305,6 +19521,7 @@
         "email": "oliviergirod665@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18320,6 +19537,7 @@
         "email": "fabiengael.canal@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18335,6 +19553,7 @@
         "email": "florian.boireaud@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18350,6 +19569,7 @@
         "email": "contact@cyclaltitude.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18365,6 +19585,7 @@
         "email": "houssela@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18380,6 +19601,7 @@
         "email": "baptiste.bruggeman@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18395,6 +19617,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18410,6 +19633,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18425,6 +19649,7 @@
         "email": "lenaour.cedric@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18440,6 +19665,7 @@
         "email": "krokro89@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18455,6 +19681,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18470,6 +19697,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18485,6 +19713,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18500,6 +19729,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18515,6 +19745,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18530,6 +19761,7 @@
         "email": "logo13@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18545,6 +19777,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18560,6 +19793,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18575,6 +19809,7 @@
         "email": "clement.monnot@wanadoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18590,6 +19825,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18605,6 +19841,7 @@
         "email": "elliothhheuu@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18620,6 +19857,7 @@
         "email": "nathan.secondi@yahoo.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18635,6 +19873,7 @@
         "email": "leon.poppe31@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18650,6 +19889,7 @@
         "email": "laurent.pietri@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18665,6 +19905,7 @@
         "email": "marjorie_73@hotmail.fr",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18680,6 +19921,7 @@
         "email": "clement.guillemard24@gmail.com",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18695,6 +19937,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18710,6 +19953,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18725,6 +19969,7 @@
         "email": "",
         "site_internet": "https:\/\/www.flovelo.fr",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18732,14 +19977,15 @@
         "code": 2268,
         "name": "Emmy VANNSON",
         "slug": "id=2268&contact=Emmy VANNSON",
-        "position": "42.86972,0.394913",
-        "adressel1": "Numero 28 appartement 82, Village",
+        "position": "42.809263,0.516962",
+        "adressel1": "Numéro 28 appt 82 , Le village",
         "cp": "31110",
-        "city": "Borderes louron",
+        "city": "Garin",
         "tel": "07 66 04 67 82",
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18755,6 +20001,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18770,6 +20017,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -18785,6 +20033,7 @@
         "email": "",
         "site_internet": "",
         "country": "France",
+        "label_ecole": false,
         "services": [],
         "station": []
     },
@@ -19706,7 +20955,7 @@
         "code": 23,
         "name": "Ecole MCF d'Avoriaz - Lindarets",
         "slug": "id=23&contact=MAISON DE LA MONTAGNE -Altitude SARL",
-        "position": "46.205567,4.117957",
+        "position": "46.191764,6.722199",
         "adressel1": "Ancey Jérémy - EFS Maison de la Montagne - immeuble cap neige\nEFS Maison de la Montagne\nImmeuble Cap Neige",
         "cp": "74110",
         "city": "AVORIAZ",
@@ -19754,7 +21003,7 @@
         "code": 26,
         "name": "Ecole MCF de Grenoble",
         "slug": "id=26&contact=NaturaVélo",
-        "position": "45.189701,5.722598",
+        "position": "45.185116,5.742174",
         "adressel1": "19 Boulevard Clémenceau",
         "cp": "38000",
         "city": "GRENOBLE",
