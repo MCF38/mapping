@@ -13168,7 +13168,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
             }));
             var i = {
                     fr: {
-                        "base-url-master-school": "https://moniteurcycliste.com/contact?",
+                        "base-url-master-school": "https://moniteurcycliste.com/contactcarto?",
                         "label-ou": "ou",
                         "navigation-go-back": "Retour",
                         "cookie-reset": "Param\xe8tres des cookies",
@@ -13216,8 +13216,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                         "ourschools-plural-label": "Nos \xe9coles",
                         "title-schoollocator": "Trouver une \xe9cole",
                         "maj-recherche": "Mettre \xe0 jour votre recherche",
-                        "activites-label": "Pratique Moniteur",
-                        "regions-label": "Format Moniteur",
+                        "activites-label": "Discipline",
+                        "regions-label": "Type de prestation",
                         "results-found": "r\xe9sultats trouv\xe9s",
                         "in-radius": "dans un rayon de",
                         "filters-label": "Filtres :",
