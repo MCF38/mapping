@@ -540,13 +540,13 @@ img {
     vertical-align: middle
 }
 
-* {
+#__next {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box
 }
 
-:root {
+#__next :root {
     --lighter-grey: #fff;
     --light-grey: #d3d3d3;
     --darker-grey: #383838;
@@ -562,7 +562,7 @@ img {
     outline: 3px solid rgba(0, 78, 194, .623)
 }
 
-:root {
+#__next :root {
     --ds-primary: #00A0E1;
     --ds-secondary: #00A0E1
 }
