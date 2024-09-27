@@ -567,8 +567,7 @@ img {
     --ds-secondary: #00A0E1
 }
 
-body,
-html {
+#__next {
     position: relative;
     width: 100%;
     height: 100%;
@@ -602,14 +601,14 @@ a:hover {
     text-decoration: none
 }
 
-.content {
+#__next .content {
     padding-top: 70px;
     background-color: #fff;
     overflow: hidden
 }
 
 @media (min-width:1024px) {
-    .content {
+    #__next .content {
         padding-top: 108px
     }
 }
