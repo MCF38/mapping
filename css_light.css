@@ -502,19 +502,45 @@
     border-right-color: #fff
 }
 
+#__next a,
+#__next address,
+#__next b,
+#__next body,
+#__next code,
+#__next div,
+#__next footer,
+#__next form,
+#__next h1,
+#__next h2,
+#__next h3,
+#__next h4,
+#__next h5,
+#__next h6,
+#__next header,
+#__next html,
+#__next img,
+#__next label,
+#__next menu,
+#__next p,
+#__next s,
+#__next span,
+#__next ul {
+    margin: 0;
+    padding: 0;
+    border: 0
+}
 
-
-ul {
+#__next ul {
     list-style: none
 }
 
-img {
+#__next img {
     max-width: 100%;
     height: auto;
     vertical-align: middle
 }
 
-* {
+#__next {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box
@@ -541,27 +567,45 @@ img {
     --ds-secondary: #00A0E1
 }
 
-
-
-#__next {
+#__next{
+    position: relative;
+    vertical-align: baseline;
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #7a7979;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
     width: inherit;
     height: inherit
 }
 
-a {
+#__next a {
     text-decoration: none;
     color: #00A0E1
 }
 
-a[href^="#"],
-a[href^="/"],
-a[href^=http] {
+#__next a[href^="#"],
+#__next a[href^="/"],
+#__next a[href^=http] {
     cursor: pointer
 }
 
-a:focus,
-a:hover {
+#__next a:focus,
+#__next a:hover {
     text-decoration: none
+}
+
+#__next .content {
+    padding-top: 70px;
+    background-color: #fff;
+    overflow: hidden
+}
+
+@media (min-width:1024px) {
+    #__next .content {
+        padding-top: 108px
+    }
 }
 
 .content-item--wrapped {
@@ -1578,6 +1622,17 @@ a:hover {
     }
 }
 
+.header {
+    position: relative
+}
+
+@media (min-width:768px) {
+    .header {
+        padding-top: 0;
+        height: 460px
+    }
+}
+
 .header .content-item--wrapped {
     position: relative;
     z-index: 2
@@ -1703,7 +1758,7 @@ a:hover {
     }
 }
 
-.footer {
+#__next .footer {
     background-color: #353333;
     padding: 60px 0;
     color: hsla(0, 0%, 100%, .8)
@@ -1793,23 +1848,23 @@ a:hover {
     color: #fff
 }
 
-.footer .sg-schoolsearch__form {
+#__next .footer .sg-schoolsearch__form {
     -webkit-justify-content: flex-end;
     -moz-box-pack: end;
     justify-content: flex-end;
     margin-top: 30px
 }
 
-.footer .sg-schoolsearch__form__inputwrapper {
+#__next .footer .sg-schoolsearch__form__inputwrapper {
     width: 480px;
     max-width: 100%
 }
 
-.footer .sg-schoolsearch__form__submit {
+#__next .footer .sg-schoolsearch__form__submit {
     background-color: #00A0E1
 }
 
-.footer .sg-schoolsearch__form__submit:hover {
+#__next .footer .sg-schoolsearch__form__submit:hover {
     background-color: #264158
 }
 
