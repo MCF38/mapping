@@ -3052,3 +3052,31 @@
     font-weight:bold;
 }
 
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper>div .react-autosuggest__suggestions-container {
+    right: -78px;
+    left: 0;
+    width: -webkit-calc(100% + 78px);
+    width: calc(100% + 78px)
+}
+
+.content--master-ecole .main__inner {
+    position: relative;
+    height: -webkit-calc(100vh - 80px);
+    height: calc(100vh - 80px)
+}
+
+.content--master-ecole .main__inner .main__inner__left {
+    position: relative;
+    height: -webkit-calc(100vh - 80px - 60px);
+    height: calc(100vh - 80px - 60px);
+    overflow: hidden
+}
+
+.content--master-ecole .main__inner .main__inner__left__content {
+    max-height: 100%;
+    overflow: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none
+}
+
+
