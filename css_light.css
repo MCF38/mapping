@@ -3082,15 +3082,7 @@
 
 
 
-.content--master-ecole .main__outer--map .sg-button--togglemap {
-    position: fixed;
-    z-index: 999
-}
 
-.content--master-ecole .main__outer--map .main__inner .main__inner__right {
-    z-index: 998;
-    opacity: 1
-}
 
 .content--master-ecole .sg-button--closemap {
     width: 40px;
