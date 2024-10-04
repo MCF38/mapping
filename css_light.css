@@ -3081,9 +3081,7 @@
 
 @media (min-width:1024px) {
     .content--master-ecole .main__inner .main__inner__left__content {
-        width: 50%;
-        padding-right: 50px;
-        overflow: auto
+
     }
 }
 
