@@ -3081,9 +3081,6 @@
 
 
 
-.content--master-ecole .main__inner .main__inner__left__content::-webkit-scrollbar {
-    display: none
-}
 
 .content--master-ecole .main__inner .main__inner__right {
     height: 100%;
