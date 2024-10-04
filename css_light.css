@@ -3100,16 +3100,7 @@
     transition: all .16s cubic-bezier(.4, 0, .2, 1) 0s
 }
 
-@media (min-width:1024px) {
-    #NIKOBUG .content--master-ecole .main__inner .main__inner__right {
-        position: absolute;
-        width: 50%;
-        left: 50%;
-        display: block;
-        z-index: 1;
-        opacity: 1
-    }
-}
+
 
 .content--master-ecole .main__outer--map .sg-button--togglemap {
     position: fixed;
