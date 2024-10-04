@@ -3082,23 +3082,6 @@
 
 
 
-.content--master-ecole .main__inner .main__inner__right {
-    height: 100%;
-    left: 0;
-    position: fixed;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    width: 100%;
-    margin-top: 0;
-    z-index: -1;
-    opacity: 0;
-    -webkit-transition: all .16s cubic-bezier(.4, 0, .2, 1) 0s;
-    transition: all .16s cubic-bezier(.4, 0, .2, 1) 0s
-}
-
-
-
 .content--master-ecole .main__outer--map .sg-button--togglemap {
     position: fixed;
     z-index: 999
