@@ -3079,6 +3079,32 @@
     scrollbar-width: none
 }
 
+@media (min-width:1024px) {
+    #NIKOBUG .content--master-ecole .main__inner .main__inner__left__content {
+        width: 50%;
+        padding-right: 50px;
+        overflow: auto
+    }
+}
+
+.content--master-ecole .main__inner .main__inner__left__content .main__inner__left__content--wrapped {
+    padding-left: 30px;
+    padding-right: 30px
+}
+
+@media (min-width:1024px) {
+    #NIKOBUG .content--master-ecole .main__inner .main__inner__left__content .main__inner__left__content--wrapped {
+        padding-right: 0
+    }
+}
+
+@media (min-width:1160px) {
+    #NIKOBUG .content--master-ecole .main__inner .main__inner__left__content .main__inner__left__content--wrapped {
+        margin-left: calc(50vw - 570px);
+        padding-left: 0
+    }
+}
+
 .content--master-ecole .main__inner .main__inner__left__content::-webkit-scrollbar {
     display: none
 }
