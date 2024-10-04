@@ -2995,3 +2995,59 @@
     -moz-box-flex: 0;
     flex-grow: 0
 }
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper .sg-icon-geolocation {
+    cursor: pointer;
+    color: #00A0E1;
+    opacity: .7;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    -webkit-transition: all .16s cubic-bezier(.4, 0, .2, 1) 0s;
+    transition: all .16s cubic-bezier(.4, 0, .2, 1) 0s
+}
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper .sg-icon-geolocation .sg-button__icon {
+    font-size: 32px
+}
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper .sg-icon-geolocation:hover {
+    opacity: 1
+}
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper>div {
+    -webkit-flex-grow: 1;
+    -moz-box-flex: 1;
+    flex-grow: 1
+}
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper>div .react-autosuggest__input,
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper>div .schoolsearch__form__input {
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    padding: 30px 0 30px 30px
+}
+
+.react-autosuggest__suggestions-list li {
+    padding: 10px 15px;
+    margin: 0;
+    color: #00A0E1;
+    text-align: left;
+    font-size: 15px;
+    cursor: pointer;
+    -webkit-transition: all .16s cubic-bezier(.4,0,.2,1) 0s;
+    transition: all .16s cubic-bezier(.4,0,.2,1) 0s;
+}
+
+.react-autosuggest__suggestions-list li:hover {
+    background-color: #00A0E1;
+    color: #ffffff;
+    font-weight:bold;
+}
