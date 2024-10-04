@@ -123,6 +123,8 @@
 .leaflet-control {
     position: relative;
     z-index: 800;
+    pointer-events: visiblePainted;
+    pointer-events: auto
 }
 
 .leaflet-bottom,
@@ -500,38 +502,39 @@
     border-right-color: #fff
 }
 
-#__next a,
-#__next address,
-#__next b,
-#__next code,
-#__next div,
-#__next footer,
-#__next form,
-#__next h1,
-#__next h2,
-#__next h3,
-#__next h4,
-#__next h5,
-#__next h6,
-#__next header,
-#__next html,
-#__next img,
-#__next label,
-#__next menu,
-#__next p,
-#__next s,
-#__next span,
-#__next ul {
+a,
+address,
+b,
+body,
+code,
+div,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+html,
+img,
+label,
+menu,
+p,
+s,
+span,
+ul {
     margin: 0;
     padding: 0;
     border: 0
 }
 
-#__next ul {
+ul {
     list-style: none
 }
 
-#__next img {
+img {
     max-width: 100%;
     height: auto;
     vertical-align: middle
@@ -582,19 +585,19 @@
     height: inherit
 }
 
-#__next a {
+a {
     text-decoration: none;
     color: #00A0E1
 }
 
-#__next a[href^="#"],
-#__next a[href^="/"],
-#__next a[href^=http] {
+a[href^="#"],
+a[href^="/"],
+a[href^=http] {
     cursor: pointer
 }
 
-#__next a:focus,
-#__next a:hover {
+a:focus,
+a:hover {
     text-decoration: none
 }
 
@@ -1624,18 +1627,18 @@
     }
 }
 
-#__next .header {
+.header {
     position: relative
 }
 
 @media (min-width:768px) {
-    #__next .header {
+    .header {
         padding-top: 0;
         height: 460px
     }
 }
 
-#__next .header .content-item--wrapped {
+.header .content-item--wrapped {
     position: relative;
     z-index: 2
 }
@@ -1760,23 +1763,23 @@
     }
 }
 
-#__next .footer {
+.footer {
     background-color: #353333;
     padding: 60px 0;
     color: hsla(0, 0%, 100%, .8)
 }
 
-#__next .body-advisible:not(.body-adclosed) .footer {
+.body-advisible:not(.body-adclosed) .footer {
     padding-bottom: calc(12.36vw + 60px)
 }
 
 @media (min-width:728px) {
-    #__next .body-advisible:not(.body-adclosed) .footer {
+    .body-advisible:not(.body-adclosed) .footer {
         padding-bottom: 150px
     }
 }
 
-#__next .footer__main {
+.footer__main {
     display: -webkit-flex;
     display: -moz-box;
     display: flex;
@@ -1788,12 +1791,12 @@
 }
 
 @media (min-width:768px) {
-    #__next .footer__main {
+    .footer__main {
         padding: 40px 0
     }
 }
 
-#__next .footer__bottom {
+.footer__bottom {
     text-align: center;
     -webkit-justify-content: center;
     -moz-box-pack: center;
@@ -1804,7 +1807,7 @@
 }
 
 @media (min-width:768px) {
-    #__next .footer__bottom {
+    .footer__bottom {
         text-align: left;
         text-align: initial;
         display: -webkit-flex;
@@ -2451,10 +2454,10 @@
     }
 }
 
-#__next .title-1,
-#__next .title-2,
-#__next .title-3,
-#__next .title-4 {
+.title-1,
+.title-2,
+.title-3,
+.title-4 {
     width: 100%;
     max-width: 1140px;
     margin: 0 auto
@@ -2533,12 +2536,12 @@
     }
 }
 
-#__next h1,
-#__next h2,
-#__next h3,
-#__next h4,
-#__next h5,
-#__next h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: Poppins, sans-serif;
     font-weight: 700
 }
@@ -2754,7 +2757,7 @@
     padding: 30px 0 30px 30px;
 }
 
-#__next form button {
+form button {
     outline: 0;
     border: 0;
     padding: 10px;
@@ -2765,15 +2768,15 @@
     transition: all .16s cubic-bezier(.4, 0, .2, 1) 0s
 }
 
-#__next form button:hover {
+form button:hover {
     background-color: #424040
 }
 
-#__next form button.button--red {
+form button.button--red {
     background-color: #00A0E1
 }
 
-#__next form button.button--red:hover {
+form button.button--red:hover {
     background-color: #264158
 }
 
