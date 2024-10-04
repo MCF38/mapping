@@ -2931,3 +2931,67 @@
 .content--master-ecole {
     background-color: #efefef
 }
+
+.content--master-ecole .main {
+    margin-top: 0
+}
+
+.content--master-ecole .main .main__inner {
+    padding-top: 60px
+}
+
+.content--master-ecole .header-master-ecole {
+    z-index: 2;
+    background-color: #00A0E1;
+    height: 80px;
+    position: relative;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    -webkit-flex-direction: column;
+    -moz-box-orient: vertical;
+    -moz-box-direction: normal;
+    flex-direction: column;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    justify-content: center
+}
+
+.content--master-ecole .header-master-ecole h1 {
+    color: #fff;
+    font-size: 30px;
+    text-align: center
+}
+
+@media (min-width:768px) {
+    .content--master-ecole .header-master-ecole {
+        height: 80px
+    }
+
+    .content--master-ecole .header-master-ecole h1 {
+        font-size: 50px
+    }
+}
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form {
+    position: absolute;
+    bottom: -39px;
+    width: 700px;
+    max-width: 90%
+}
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper {
+    width: 100%;
+    background-color: #fff
+}
+
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper .sg-icon-geolocation,
+.content--master-ecole .header-master-ecole .sg-schoolsearch__form .sg-schoolsearch__form__inputwrapper .sg-schoolsearch__form__submit {
+    width: 78px;
+    -webkit-flex-grow: 0;
+    -moz-box-flex: 0;
+    flex-grow: 0
+}
