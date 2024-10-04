@@ -17684,7 +17684,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                         w(50), h(!1)
                                 }))
                             }else{
-                                    /*navigator.geolocation.getCurrentPosition((function(e) {
+                                navigator.geolocation.getCurrentPosition((function(e) {
                                     d([e.coords.latitude, e.coords.longitude]), fetch("https://api-adresse.data.gouv.fr/reverse/?lon=" + e.coords.longitude + "&lat=" + e.coords.latitude, {
                                         method: "GET"
                                     }).then((function(e) {
@@ -17694,7 +17694,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                         N(e.features[0].properties.city + " " + e.features[0].properties.postcode),
                                             u(e.features[0].properties.city + " " + e.features[0].properties.postcode),
                                             w(50), h(!1)
-                                    }))*/
+                                    }))
                                 }))
                             }
                         },
